@@ -1,0 +1,2 @@
+# sales
+Public sale config
