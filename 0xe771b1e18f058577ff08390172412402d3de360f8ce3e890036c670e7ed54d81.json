@@ -1,0 +1,34 @@
+{
+  "chainId": 31337,
+  "saleManager": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+  "saleId": "0xe771b1e18f058577ff08390172412402d3de360f8ce3e890036c670e7ed54d81",
+  "branding": {
+    "logoUri": "https://example.com/icon.png",
+    "primaryColor": "#123456",
+    "name": "Tokensoft Example Sale",
+    "introText": "Our example sale will begin on Jan 1, 2040. Read about it <a href='example.com'>here</a>.",
+    "purchaseText": "Up to 1MM EXPL tokens will be sold. For one dollar, you get one token. But for two dollars, you get two tokens.",
+    "claimText": "claims will open on Jan 2, 2040."
+  },
+  "purchaseDetails": {
+    "price": 1.0001,
+    "name": "Example Token",
+    "symbol": "EXPL"
+  },
+  "legalDocuments": [{
+    "name": "Terms and Conditions",
+    "uri": "https://example.com/terms.pdf"
+  }, {
+    "name": "Privacy Policy",
+    "uri": "https://example.com/privacy.pdf"
+  }, {
+    "name": "Purchase Agreement",
+    "uri": "https://example.com/purchase.pdf",
+    "appendSignature": "https://example.com/purchase_countersigned_template.pdf"
+  }],
+  "access": {
+    "limitToRegions": ["US", "CA", "CH"],
+    "limitToAddresses": ["0x3CfA1411E0243C23486e7D966F46eE2D1d2a28fa", "0xD9C556eF2CD9a7066d6C35C5505CaC8D4Bd4223d"]
+  },
+  "signature": "0x80ab4d3198c2f40411a26d58c17464f3f8ffc84a5771e31c4bf6254ec9760905689a5f7b0daeca7f516053a10d95d791d7cf87ed16b7c874639b44f14ec0b3351b"
+}
