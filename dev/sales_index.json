@@ -28,8 +28,7 @@
     "documents": [
       {
         "name": "SAFT",
-        "uri": "https://example.com/saft.pdf",
-        "appendSignature": "https://example.com/saft_countersigned_template.pdf"
+        "uri": "https://example.com/saft.pdf"
       },
       {
         "name": "Disclosures",
