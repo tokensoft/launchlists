@@ -1,7 +1,7 @@
 {
   "merkleRoot":"0x6c31663d1f8ab31708098b11479f1019e3f68917c909f82a2729dcd06f92cf35",
-  "claims":{"0x097a3a6ce1d77a11bda1ac40c08fdf9f6202103f":
-    {
+  "claims":{
+    "0x097a3a6ce1d77a11bda1ac40c08fdf9f6202103f": {
       "index":0,
       "proof":[
         "0x2f58844733425985bbe8cc17ec71f3d0417003664daf3da31269cb5306192162",
