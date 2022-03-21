@@ -28,7 +28,8 @@
     "documents": [
       {
         "name": "SAFT",
-        "uri": "https://example.com/saft.pdf"
+        "uri": "https://example.com/saft.pdf",
+        "appendSignature": "s3://job-queue-data/safts/annex.pdf"
       },
       {
         "name": "Disclosures",
