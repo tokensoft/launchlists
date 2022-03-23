@@ -16,17 +16,15 @@ function validateSchema (filePath, data) {
 }
 
 async function loadSales() {
-  const files = await fs.promises.readdir('./sales');
+  const filePaths = [
+    './dev/sales_index.json',
+    './staging/sales_index.json',
+    './prod/sales_index.json',
+    './sale.example.json'
+  ]
 
-  for( const file of files ) {
-    const filePath = path.join( './sales', file );
-
-    const stat = await fs.promises.stat(filePath);
-
-    if(!stat.isFile()) {
-      throw new Error(`${filePath} is not a file! The ./sales/ directory can only contain sale files`);
-    }
-
+  for( const filePath of filePaths ) {
+    console.log(`Checking ${filePath}`)
     const content = fs.readFileSync(filePath);
 
     let saleConfig
@@ -36,11 +34,7 @@ async function loadSales() {
       console.error(`Sale config in ${filePath} is not valid JSON: ${e.message}`)
     }
 
-    if (file.split('.')[0] !== saleConfig.saleId) {
-      throw new Error(`file name ${file} must match sale id ${saleConfig.saleId}`)
-    }
-
-    validateSchema(saleConfig, saleConfig);
+    validateSchema(filePath, saleConfig);
   }
 }
 

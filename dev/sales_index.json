@@ -1,30 +1,20 @@
 [
   {
-    "chainId": 1337,
-    "saleAddress": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+    "chainId": 31337,
+    "saleAddress": "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0",
     "saleId": "0xad576dabbf066860b489eab940bd3fe23d9c10ac3813ce1384e9a5d8f5b41be6",
     "saleName": "Moonbridge take flight",
     "logo": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "favicon": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "color": "#02ba88",
     "secondaryColor": "#FFFFFF",
-    "name": "Moonbridge",
-    "tokenName": "Moon",
-    "tokenTicker": "MBR",
     "projectWebsite": "https://www.moonbridge.com",
     "description": "Moonbridge is a decentralized bridge that connects Bitcoin and Moonbeam.",
-    "accessList": "https://gateway.pinata.cloud/ipfs/QmNYPPSXpNi83vdUBYL7DcgVZjRVxodUG6GcZR5LzGGc4M",
-    "socials": [
-      {
-        "twitter": "https://twitter.com/tokensoftinc"
-      },
-      {
-        "discord": "https://discord.com"
-      },
-      {
+    "socials": {
+        "twitter": "https://twitter.com/tokensoftinc",
+        "discord": "https://discord.com",
         "telegram": "https://t.me/hi"
-      }
-    ],
+    },
     "documents": [
       {
         "name": "SAFT",
@@ -42,6 +32,10 @@
         "name": "Privacy Policy",
         "uri": "https://example.com/privacy.pdf"
       }
-    ]
+    ],
+    "access": {
+      "limitToRegions": ["FR"],
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmNYPPSXpNi83vdUBYL7DcgVZjRVxodUG6GcZR5LzGGc4M"
+    }
   }
 ]
