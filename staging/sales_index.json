@@ -43,7 +43,8 @@
         "name": "Privacy Policy",
         "uri": "https://example.com/privacy.pdf"
       }
-    ]
+    ],
+    "limitToRegions": ["US", "CA", "FR"]
   },
   {
     "chainId": 3,
@@ -135,7 +136,8 @@
         "name": "Privacy Policy",
         "uri": "https://example.com/privacy.pdf"
       }
-    ]
+    ],
+    "limitToRegions": ["US", "CA", "FR"]
   },
   {
     "chainId": 3,
@@ -181,7 +183,8 @@
         "name": "Privacy Policy",
         "uri": "https://example.com/privacy.pdf"
       }
-    ]
+    ],
+    "limitToRegions": ["US", "CA", "FR"]
   }
   
 ]
