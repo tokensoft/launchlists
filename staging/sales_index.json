@@ -44,7 +44,9 @@
         "uri": "https://example.com/privacy.pdf"
       }
     ],
-    "limitToRegions": ["US", "CA", "FR"]
+    "access" : {
+      "limitToRegions": ["US", "CA", "FR"]
+    }
   },
   {
     "chainId": 3,
@@ -90,7 +92,10 @@
         "name": "Privacy Policy",
         "uri": "https://example.com/privacy.pdf"
       }
-    ]
+    ],
+    "access" : {
+      "limitToRegions": ["US", "CA", "FR"]
+    }
   },
   {
     "chainId": 3,
@@ -137,7 +142,9 @@
         "uri": "https://example.com/privacy.pdf"
       }
     ],
-    "limitToRegions": ["US", "CA", "FR"]
+    "access" : {
+      "limitToRegions": ["US", "CA", "FR"]
+    }
   },
   {
     "chainId": 3,
@@ -184,7 +191,9 @@
         "uri": "https://example.com/privacy.pdf"
       }
     ],
-    "limitToRegions": ["US", "CA", "FR"]
+    "access" : {
+      "limitToRegions": ["US", "CA", "FR"]
+    }
   }
   
 ]
