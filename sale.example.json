@@ -1,13 +1,13 @@
 [{
   "chainId": 31337,
-  "saleAddress": "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0",
+  "saleManagerAddress": "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0",
   "saleId": "0xe771b1e18f058577ff08390172412402d3de360f8ce3e890036c670e7ed54d81",
   "saleName": "Tokensoft Example Sale",
   "logo": "https://example.com/icon.png",
   "favicon": "https://example.com/favicon.ico",
   "projectWebsite": "https://example.com",
-  "description": "Use this example sale as a guide when configuring your own sale",
-  "color": "#123456",
+  "saleDescription": "A sale of Example Tokens to our community on date for purpose at price. Use this example sale as a guide when configuring your own sale",
+  "primaryColor": "#123456",
   "secondaryColor": "#00ff00",
   "socials": {
     "twitter": "https://twitter.com/example"

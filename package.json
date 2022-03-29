@@ -1,7 +1,7 @@
 {
   "name": "@tokensoft/sales",
   "version": "1.0.0",
-  "description": "sale configuration for projects using tokensoft tech",
+  "saleDescription": "sale configuration for projects using tokensoft tech",
   "main": "index.js",
   "scripts": {
     "test": "node validate"

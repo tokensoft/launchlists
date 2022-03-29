@@ -39,7 +39,7 @@ Use this repository to configure the following sale properties. Note that all et
 `chainId`: the Ethereum Chain ID where the sale will occur
 
 ### Sale Address
-`saleAddress`: the address of the sale management smart contract. Tokensoft will provide this value.
+`saleManagerAddress`: the address of the sale management smart contract. Tokensoft will provide this value.
 
 ### Sale ID
 `saleId`: the `bytes32` identifier uniquely identifying this sale, provided during the sale creation process at https://app.tokensoft.io in the `SaleManager.newSale()` function on-chain.
@@ -53,8 +53,8 @@ Use this repository to configure the following sale properties. Note that all et
 ### Favicon
 * `favicon`: a URI to a .ico logo for browser tabs
 
-### Color
-* `color`: a primary hex RGB color, e.g. `#00ff00` that will be used for buttons and links in https://app.tokensoft.io
+### Primary Color
+* `primaryColor`: a primary hex RGB color, e.g. `#00ff00` that will be used for buttons and links in https://app.tokensoft.io
 
 ### Secondary Color
 * `secondaryColor`: an accent hex RGB color, e.g. `#00ff00` that will be used for secondary styling in https://app.tokensoft.io
