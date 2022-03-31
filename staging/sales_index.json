@@ -1,9 +1,9 @@
 [
   {
     "chainId": 3,
-    "saleManagerAddress": "0x17c14f6087c62666d28361697f4a9b4d39dc3bc5",
+    "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x0c7b96282db7b0116303a5446d74a9685a13ded76b16aaed4db4478ab9673fc4",
-    "saleName": "Sale 1",
+    "saleName": "Moonbridge Sale 1",
     "logo": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "favicon": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "primaryColor": "#02ba88",
@@ -11,6 +11,7 @@
     "projectWebsite": "https://www.moonbridge.com",
     "saleDescription": "Moonbridge is a decentralized bridge that connects Bitcoin and Moonbeam.",
     "access": {
+      "limitToRegions": ["US", "CA", "FR"],
       "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmNYPPSXpNi83vdUBYL7DcgVZjRVxodUG6GcZR5LzGGc4M"
     },
     "socials": {
@@ -40,9 +41,9 @@
   },
   {
     "chainId": 3,
-    "saleManagerAddress": "0x17c14f6087c62666d28361697f4a9b4d39dc3bc5",
+    "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x4651b9208af2bbb0c3d132102fae69e8e98a9976da6f8a1cf578bd3b08e5ed08",
-    "saleName": "Sale 2",
+    "saleName": "Moonbridge Sale 2",
     "logo": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "favicon": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "primaryColor": "#02ba88",
@@ -50,7 +51,8 @@
     "projectWebsite": "https://www.moonbridge.com",
     "saleDescription": "Moonbridge is a decentralized bridge that connects Bitcoin and Moonbeam.",
     "access": {
-      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmNYPPSXpNi83vdUBYL7DcgVZjRVxodUG6GcZR5LzGGc4M"
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmPRUFNgkiZP9KvcDTG8VKsBgUpUGQhb2ksdu3sRyigNMA",
+      "limitToRegions": ["US", "CA", "FR"]
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
@@ -79,9 +81,9 @@
   },
   {
     "chainId": 3,
-    "saleManagerAddress": "0x17c14f6087c62666d28361697f4a9b4d39dc3bc5",
+    "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x8f5da21506d25929c7dda97d28b064d0723231631fed753efa278b058f255f3d",
-    "saleName": "Sale 3",
+    "saleName": "Moonbridge Sale 3",
     "logo": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "favicon": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
     "primaryColor": "#02ba88",
@@ -89,7 +91,8 @@
     "projectWebsite": "https://www.moonbridge.com",
     "saleDescription": "Moonbridge is a decentralized bridge that connects Bitcoin and Moonbeam.",
     "access": {
-      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmNYPPSXpNi83vdUBYL7DcgVZjRVxodUG6GcZR5LzGGc4M"
+      "limitToRegions": ["US", "CA", "FR"],
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmPP3e6Z7RCEkgeBef7JP8EbFFPhzT8J62MhzfrdE29cDa"
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
@@ -118,7 +121,7 @@
   },
   {
     "chainId": 3,
-    "saleManagerAddress": "0x17c14f6087c62666d28361697f4a9b4d39dc3bc5",
+    "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0xc0e17e39c6d5a18fb14adba277fee02deb669a82c768ddcbadadc180232334c2",
     "saleName": "Sale 4",
     "logo": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
@@ -128,7 +131,8 @@
     "projectWebsite": "https://www.moonbridge.com",
     "saleDescription": "Moonbridge is a decentralized bridge that connects Bitcoin and Moonbeam.",
     "access": {
-      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmNYPPSXpNi83vdUBYL7DcgVZjRVxodUG6GcZR5LzGGc4M"
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmPRUFNgkiZP9KvcDTG8VKsBgUpUGQhb2ksdu3sRyigNMA",
+      "limitToRegions": ["US", "CA", "FR"]
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
