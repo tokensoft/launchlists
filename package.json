@@ -1,0 +1,22 @@
+{
+  "name": "@tokensoft/sales",
+  "version": "1.0.0",
+  "saleDescription": "sale configuration for projects using tokensoft tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "node validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokensoft/sales.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tokensoft/sales/issues"
+  },
+  "homepage": "https://github.com/tokensoft/sales#readme",
+  "dependencies": {
+    "ajv": "^8.10.0"
+  }
+}
