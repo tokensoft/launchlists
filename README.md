@@ -16,14 +16,16 @@ On Github:
 
 On your machine:
 * Install git: https://github.com/git-guides/install-git
-* Clone the forked repository: `git clone git@github.com:<your github username>/sales.git`
+* Clone the forked repository: `git clone https://github.com/[your github username here]/sales.git`
 * Enter the repository: `cd sales`
-* Check out a new branch: `git checkout -b <the-name-of-my-sale>`
+* Check out a new branch: `git checkout -b the-name-of-my-sale`
 * Install dependencies: `npm install`
 
-## Use
+## Launching a Sale
+
+### Production
 On your machine:
-* Refer to `./sale.example.json` as example sale configuration
+* Refer to `./sale.example.json` for example sale configuration
 * Add a new sale object to the array of sales in `./prod/sales_index.json`
 * Verify that the schema is correct: `npm run test` (this will throw an error if config does not match the schema in `./sale.schema.json`)
 * Commit changes: `git commit -am 'new sale'`
@@ -32,17 +34,28 @@ On your machine:
 On github:
 * Submit a pull request from your forked repository to https://github.com/tokensoft/sales
 
+Once complete the sale will be visible on https://app.tokensoft.io
+
+### Staging
+You can try out the Tokensoft platform using the same steps as the production flow below, except:
+* Instead of editing, `./prod/sales_index.json`, add your sale config to the array of sales in `./staging/sales_index.json`
+  * Set chain ID to `3` for ropsten
+* View sales at https://app.stagetokensoft.com
+* The network is Ropsten: this is not suitable for real sales!
+
 ## Sale Configuration
 Use this repository to configure the following sale properties. Note that all ethereum addresses should be in lowercase.
 
 ### Chain ID
 `chainId`: the Ethereum Chain ID where the sale will occur
+* For production: only Ethereum mainnet (chain ID `1`) is supported
+* For staging: Ropsten (`3`)
 
 ### Sale Address
 `saleManagerAddress`: the address of the sale management smart contract. Tokensoft will provide this value.
 
 ### Sale ID
-`saleId`: the `bytes32` identifier uniquely identifying this sale, provided during the sale creation process at https://app.tokensoft.io in the `SaleManager.newSale()` function on-chain.
+`saleId`: the `bytes32` identifier uniquely identifying this sale, provided during the sale creation process at https://app.tokensoft.io in the `SaleManager.newSale()` function on-chain. You can find this value under the Manage Sale > Basic Configuration section on https://app.tokensoft.io
 
 ### Sale Name
 * `saleName`: the name of the sale that will be displayed in app.tokensoft.io
@@ -59,11 +72,11 @@ Use this repository to configure the following sale properties. Note that all et
 ### Secondary Color
 * `secondaryColor`: an accent hex RGB color, e.g. `#00ff00` that will be used for secondary styling in https://app.tokensoft.io
 
-### Project website
+### Project Website
 * `projectWebsite`: a URI to the project behind the sale
 
 ### Socials
-An array of objects
+* List links to accounts oncommon social platforms (coming soon)
 
 ### Documents
 Provide an array of documents that must be reviewed by sale participants. Each document includes these fields:

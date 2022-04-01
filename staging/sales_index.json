@@ -2,6 +2,29 @@
   {
     "chainId": 3,
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
+    "saleId": "0x0964228c53d32a19994cbfe202e5208c03f46670567a3e50af46a86de64b696e",
+    "saleName": "GigaStonk: Example Event",
+    "logo": "https://gateway.pinata.cloud/ipfs/Qme2pNtFCZdEMoQF5sz7D83iNhT8HM6nCYUcQkCRs9hSHF",
+    "favicon": "https://gateway.pinata.cloud/ipfs/Qme2pNtFCZdEMoQF5sz7D83iNhT8HM6nCYUcQkCRs9hSHF",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#000000",
+    "projectWebsite": "https://stonks.example.com",
+    "saleDescription": "This is a silly example event.",
+    "access": {
+    },
+    "socials": {
+    },
+    "documents": [
+      {
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-q`ueue-data/safts/annex.pdf"
+      }
+    ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x0c7b96282db7b0116303a5446d74a9685a13ded76b16aaed4db4478ab9673fc4",
     "saleName": "Moonbridge Sale 1",
     "logo": "https://gateway.pinata.cloud/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
