@@ -11,6 +11,7 @@
     "projectWebsite": "https://stonks.example.com",
     "saleDescription": "This is a silly example event.",
     "access": {
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmZSwaYUyCN7KyH7ctBrf1A2tMerzR7gAcTCSJuvqHSZ9q"
     },
     "socials": {
     },
