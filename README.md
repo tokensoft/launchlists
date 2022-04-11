@@ -60,6 +60,9 @@ Use this repository to configure the following sale properties. Note that all et
 ### Sale Name
 * `saleName`: the name of the sale that will be displayed in app.tokensoft.io
 
+### Hidden
+* `hidden`: boolean to determine the sale should be hidden from view
+
 ### Logo
 * `logo`: a URI to a .png logo that will be displayed in app.tokensoft.io
 
