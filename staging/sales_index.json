@@ -4,6 +4,7 @@
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x9a1c4a24263b03af18c41ba7d07704022ad4d9b05f80ede187b78126ce959e8a",
     "saleName": "MicroStrategy: Example Event",
+    "hidden": false,
     "logo": "https://gateway.pinata.cloud/ipfs/QmYn963c46qmjerSd3qK8oj6qvHAjAcUihEfcVvhRaEcPd",
     "favicon": "https://gateway.pinata.cloud/ipfs/QmYn963c46qmjerSd3qK8oj6qvHAjAcUihEfcVvhRaEcPd",
     "primaryColor": "#0000ff",
