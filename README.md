@@ -16,6 +16,7 @@ On Github:
 
 On your machine:
 * Install git: https://github.com/git-guides/install-git
+* Install npm: https://nodejs.org/en/
 * Clone the forked repository: `git clone https://github.com/[your github username here]/sales.git`
 * Enter the repository: `cd sales`
 * Check out a new branch: `git checkout -b the-name-of-my-sale`
