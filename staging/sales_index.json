@@ -36,6 +36,7 @@
     "projectWebsite": "https://stonks.example.com",
     "saleDescription": "This is a silly example event.",
     "access": {
+      "limitToRegions":["US", "CA"]
     },
     "socials": {
     },
