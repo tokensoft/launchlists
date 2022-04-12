@@ -27,7 +27,7 @@
     "chainId": 3,
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x0964228c53d32a19994cbfe202e5208c03f46670567a3e50af46a86de64b696e",
-    "saleName": "GigaStonk: Example Event",
+    "saleName": "GigaStonk: Example Event 2",
     "hidden": false,
     "logo": "https://gateway.pinata.cloud/ipfs/Qme2pNtFCZdEMoQF5sz7D83iNhT8HM6nCYUcQkCRs9hSHF",
     "favicon": "https://gateway.pinata.cloud/ipfs/Qme2pNtFCZdEMoQF5sz7D83iNhT8HM6nCYUcQkCRs9hSHF",
@@ -36,7 +36,8 @@
     "projectWebsite": "https://stonks.example.com",
     "saleDescription": "This is a silly example event.",
     "access": {
-      "limitToRegions":["US", "CA"]
+      "limitToRegions":["US", "CA"],
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmTK6cLKy3dKi2XFyrP5jbnLRcXBV3fzTD9dmZhjMer3ue"
     },
     "socials": {
     },
