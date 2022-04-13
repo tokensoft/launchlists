@@ -1,4 +1,4 @@
-[
+[oops
   {
     "chainId": 3,
     "saleManagerAddress": "0xb985f26c5821694b8a2393fd57b970e5ef1a02ee",
@@ -11,7 +11,31 @@
     "projectWebsite": "https://rollerskatenation.com/skates/?gclid=CjwKCAjwo8-SBhAlEiwAopc9Wxu6XFkPETW6-QgcbZMP9s0UUmsQDnA3edYGy792-tjk2iRSRNVVsRoCURkQAvD_BwE",
     "saleDescription": "SCLTest Roller Skating Event.",
     "access": {
-	 "limitToRegions": ["US", "CA", "CH"]
+	    "limitToRegions": ["US", "CA", "CH"]
+    },
+    "socials": {
+    },
+    "documents": [
+      {
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      }
+  },
+  {
+    "chainId":3,
+    "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
+    "saleId": "0x9a1c4a24263b03af18c41ba7d07704022ad4d9b05f80ede187b78126ce959e8a",
+    "saleName": "MicroStrategy: Example Event",
+    "hidden": false,
+    "logo": "https://gateway.pinata.cloud/ipfs/QmYn963c46qmjerSd3qK8oj6qvHAjAcUihEfcVvhRaEcPd",
+    "favicon": "https://gateway.pinata.cloud/ipfs/QmYn963c46qmjerSd3qK8oj6qvHAjAcUihEfcVvhRaEcPd",
+    "primaryColor": "#0000ff",
+    "secondaryColor": "#00ddff",
+    "projectWebsite": "https://microstrategy.example.com",
+    "saleDescription": "This is a silly example event.",
+    "access": {
+	    "limitToRegions": ["US", "CA", "CH"]
     },
     "socials": {
     },
@@ -23,13 +47,38 @@
       }
     ]
   },
-
-  
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
+    "saleId": "0x0964228c53d32a19994cbfe202e5208c03f46670567a3e50af46a86de64b696e",
+    "saleName": "GigaStonk: Example Event 2",
+    "hidden": false,
+    "logo": "https://gateway.pinata.cloud/ipfs/Qme2pNtFCZdEMoQF5sz7D83iNhT8HM6nCYUcQkCRs9hSHF",
+    "favicon": "https://gateway.pinata.cloud/ipfs/Qme2pNtFCZdEMoQF5sz7D83iNhT8HM6nCYUcQkCRs9hSHF",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#000000",
+    "projectWebsite": "https://stonks.example.com",
+    "saleDescription": "This is a silly example event.",
+    "access": {
+      "limitToRegions":["US", "CA"],
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmTK6cLKy3dKi2XFyrP5jbnLRcXBV3fzTD9dmZhjMer3ue"
+    },
+    "socials": {
+    },
+    "documents": [
+      {
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-q`ueue-data/safts/annex.pdf"
+      }
+    ]
+  },
   {
     "chainId": 3,
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x0c7b96282db7b0116303a5446d74a9685a13ded76b16aaed4db4478ab9673fc4",
     "saleName": "Moonbridge Sale 1",
+    "hidden": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
@@ -70,6 +119,7 @@
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x4651b9208af2bbb0c3d132102fae69e8e98a9976da6f8a1cf578bd3b08e5ed08",
     "saleName": "Moonbridge Sale 2",
+    "hidden": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
@@ -110,6 +160,7 @@
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x8f5da21506d25929c7dda97d28b064d0723231631fed753efa278b058f255f3d",
     "saleName": "Moonbridge Sale 3",
+    "hidden": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
@@ -150,6 +201,7 @@
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0xc0e17e39c6d5a18fb14adba277fee02deb669a82c768ddcbadadc180232334c2",
     "saleName": "Sale 4",
+    "hidden": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",

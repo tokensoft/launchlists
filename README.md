@@ -5,7 +5,7 @@ Public sale config for projects using Tokensoft tech to launch sales.
 To set up a new sale, follow these steps:
 1. Contact sales@tokensoft.io to engage Tokensoft for technology and compliance services.
 2. Create a new sale using https://app.tokensoft.io: this will provide the `saleId` value.
-3. Submit a pull request to https://github.com/tokensoft/sales/compare to this repository with updated sale configuration including your sale.
+3. Submit a pull request to https://github.com/tokensoft/tokenlists/compare to this repository with updated sale configuration including your sale.
 4. The sale will be accessible users once the pull request is approved by Tokensoft.
 5. To update this configuration once the sale is visible, create another pull request.
 
@@ -16,8 +16,9 @@ On Github:
 
 On your machine:
 * Install git: https://github.com/git-guides/install-git
-* Clone the forked repository: `git clone https://github.com/[your github username here]/sales.git`
-* Enter the repository: `cd sales`
+* Install npm: https://nodejs.org/en/
+* Clone the forked repository: `git clone https://github.com/[your github username here]/tokenlists.git`
+* Enter the repository: `cd tokenlists`
 * Check out a new branch: `git checkout -b the-name-of-my-sale`
 * Install dependencies: `npm install`
 
@@ -32,7 +33,7 @@ On your machine:
 * Git push: `git push origin <the-name-of-my-sale>`
 
 On github:
-* Submit a pull request from your forked repository to https://github.com/tokensoft/sales
+* Submit a pull request from your forked repository to https://github.com/tokensoft/tokenlists
 
 Once complete the sale will be visible on https://app.tokensoft.io
 
@@ -59,6 +60,9 @@ Use this repository to configure the following sale properties. Note that all et
 
 ### Sale Name
 * `saleName`: the name of the sale that will be displayed in app.tokensoft.io
+
+### Hidden
+* `hidden`: boolean to determine the sale should be hidden from view
 
 ### Logo
 * `logo`: a URI to a .png logo that will be displayed in app.tokensoft.io

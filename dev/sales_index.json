@@ -1,9 +1,10 @@
-[
+[this is not valid json
   {
     "chainId": 31337,
     "saleManagerAddress": "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0",
     "saleId": "0xad576dabbf066860b489eab940bd3fe23d9c10ac3813ce1384e9a5d8f5b41be6",
     "saleName": "Moonbridge take flight",
+    "hidden": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",

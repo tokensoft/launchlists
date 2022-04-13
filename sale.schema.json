@@ -18,6 +18,9 @@
       "saleName": {
         "type": "string"
       },
+      "hidden": {
+        "type": "boolean"
+      },
       "logo": {
         "type": "string"
       },
