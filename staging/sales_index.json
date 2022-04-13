@@ -1,6 +1,30 @@
 [
   {
     "chainId": 3,
+    "saleManagerAddress": "0xb985f26c5821694b8a2393fd57b970e5ef1a02ee",
+    "saleId": "0x34155e6de5ec37e28229d8dbf036200509672a19dd7400301c843cbdbd38d6a1",
+    "saleName": "SCLTest",
+    "logo": "https://www.qualia.com/images/branding/qualia_logo_medium.png",
+    "favicon": "https://www.qualia.com/favicon-96x96.png",
+    "primaryColor": "#000000",
+    "secondaryColor": "#eb34b1",
+    "projectWebsite": "https://rollerskatenation.com/skates/?gclid=CjwKCAjwo8-SBhAlEiwAopc9Wxu6XFkPETW6-QgcbZMP9s0UUmsQDnA3edYGy792-tjk2iRSRNVVsRoCURkQAvD_BwE",
+    "saleDescription": "SCLTest Roller Skating Event.",
+    "access": {
+	    "limitToRegions": ["US", "CA", "CH"]
+    },
+    "socials": {
+    },
+    "documents": [
+      {
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      }
+    ]
+  },
+  {
+    "chainId":3,
     "saleManagerAddress": "0x9ef415de715c0a55aa867bcdea00eaf914ad6cb7",
     "saleId": "0x9a1c4a24263b03af18c41ba7d07704022ad4d9b05f80ede187b78126ce959e8a",
     "saleName": "MicroStrategy: Example Event",
@@ -12,6 +36,7 @@
     "projectWebsite": "https://microstrategy.example.com",
     "saleDescription": "This is a silly example event.",
     "access": {
+	    "limitToRegions": ["US", "CA", "CH"]
     },
     "socials": {
     },
