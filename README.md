@@ -17,8 +17,8 @@ On Github:
 On your machine:
 * Install git: https://github.com/git-guides/install-git
 * Install npm: https://nodejs.org/en/
-* Clone the forked repository: `git clone https://github.com/[your github username here]/sales.git`
-* Enter the repository: `cd sales`
+* Clone the forked repository: `git clone https://github.com/[your github username here]/tokenlists.git`
+* Enter the repository: `cd tokenlists`
 * Check out a new branch: `git checkout -b the-name-of-my-sale`
 * Install dependencies: `npm install`
 
