@@ -21,6 +21,7 @@
         "uri": "https://example.com/saft.pdf",
         "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
       }
+    ]
   },
   {
     "chainId":3,
