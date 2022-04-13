@@ -5,7 +5,7 @@ Public sale config for projects using Tokensoft tech to launch sales.
 To set up a new sale, follow these steps:
 1. Contact sales@tokensoft.io to engage Tokensoft for technology and compliance services.
 2. Create a new sale using https://app.tokensoft.io: this will provide the `saleId` value.
-3. Submit a pull request to https://github.com/tokensoft/sales/compare to this repository with updated sale configuration including your sale.
+3. Submit a pull request to https://github.com/tokensoft/tokenlists/compare to this repository with updated sale configuration including your sale.
 4. The sale will be accessible users once the pull request is approved by Tokensoft.
 5. To update this configuration once the sale is visible, create another pull request.
 
@@ -33,7 +33,7 @@ On your machine:
 * Git push: `git push origin <the-name-of-my-sale>`
 
 On github:
-* Submit a pull request from your forked repository to https://github.com/tokensoft/sales
+* Submit a pull request from your forked repository to https://github.com/tokensoft/tokenlists
 
 Once complete the sale will be visible on https://app.tokensoft.io
 
