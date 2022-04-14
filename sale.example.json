@@ -7,6 +7,7 @@
   "favicon": "https://example.com/favicon.ico",
   "projectWebsite": "https://example.com",
   "hidden": false,
+  "purchaseDocumentsGenerated": false,
   "saleDescription": "A sale of Example Tokens to our community on date for purpose at price. Use this example sale as a guide when configuring your own sale",
   "primaryColor": "#123456",
   "secondaryColor": "#00ff00",
