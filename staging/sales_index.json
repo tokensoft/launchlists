@@ -168,7 +168,7 @@
     "saleId": "0x8f5da21506d25929c7dda97d28b064d0723231631fed753efa278b058f255f3d",
     "saleName": "Moonbridge Sale 3",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": true,	  
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
