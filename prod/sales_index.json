@@ -5,6 +5,7 @@
     "saleId": "0x415ccd1e796a36aa3c551de5a097c7012b9146c6fd6fca03fcf7b0401fbf5a85",
     "saleName": "Softies v2",
     "hidden": false,
+    "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#0000ff",
