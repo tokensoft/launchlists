@@ -21,6 +21,9 @@
       "hidden": {
         "type": "boolean"
       },
+      "purchaseDocumentsGenerated": {
+        "type": "boolean"
+      },  
       "logo": {
         "type": "string"
       },
