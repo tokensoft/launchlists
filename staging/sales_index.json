@@ -13,7 +13,8 @@
     "hidden": false,
     "purchaseDocumentsGenerated": false,	  
     "access": {
-	    "limitToRegions": ["US", "CA", "CH"]
+	    "limitToRegions": ["US", "CA", "CH"],
+	    "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmPRUFNgkiZP9KvcDTG8VKsBgUpUGQhb2ksdu3sRyigNMA"
     },
     "socials": {
     },
