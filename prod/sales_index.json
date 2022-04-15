@@ -50,6 +50,7 @@
     "projectWebsite": "https://softies.example.com",
     "saleDescription": "This is a sample event.",
     "access": {
+	    "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmZSwaYUyCN7KyH7ctBrf1A2tMerzR7gAcTCSJuvqHSZ9q"
     },
     "socials": {
     },
