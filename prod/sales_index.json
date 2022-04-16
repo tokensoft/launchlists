@@ -74,5 +74,40 @@
         "uri": "https://example.com/privacy.pdf"
       }
     ]
+  },
+  {
+    "chainId": 1,
+    "saleManagerAddress": "0xb41169cc124298be20e2ca956cc46e266ab5e203",
+    "saleId": "0x4d4f2fd35f40ce81c906718a9f7349af4f8b3ff0f388f2082aaf985b9bcdc969",
+    "saleName": "Softies Friday $1 limit",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
+    "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
+    "primaryColor": "#00ff00",
+    "secondaryColor": "#00ddff",
+    "projectWebsite": "https://softies.example.com",
+    "saleDescription": "This is a sample event.",
+    "socials": {
+    },
+    "documents": [
+      {
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      },
+      {
+        "name": "Disclosures",
+        "uri": "https://example.com/disclosures.pdf"
+      },
+      {
+        "name": "Terms",
+        "uri": "https://example.com/terms.pdf"
+      },
+      {
+        "name": "Privacy Policy",
+        "uri": "https://example.com/privacy.pdf"
+      }
+    ]
   }
 ]
