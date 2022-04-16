@@ -90,6 +90,8 @@
     "saleDescription": "This is a sample event.",
     "socials": {
     },
+    "access": {
+    },
     "documents": [
       {
         "name": "Purchase Agreement",
