@@ -3,7 +3,7 @@
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
     "saleId": "0x3ba3be5f8a7a61779457a1d92bffbe4c312a5ffeef60ad879bc1abbdb860109f",
-    "saleName": "GigaStonks III: Testing Sale",
+    "saleName": "GST3: Example Sale",
     "hidden": false,
     "purchaseDocumentsGenerated": false,	  
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
