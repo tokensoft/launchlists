@@ -13,6 +13,7 @@
     "projectWebsite": "https://softies.example.com",
     "saleDescription": "This is a sample event.",
     "access": {
+	      "limitToRegions": ["US", "FR", "CA"],
 	    "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmWvyWqwjVMaP2zTtfoxM4zSrLzkmoBdzN7F59Qx659moF"
     },
     "socials": {
