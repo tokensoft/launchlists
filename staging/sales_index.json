@@ -1,4 +1,123 @@
 [
+    {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
+    "saleName": "Fayre",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,	  
+    "logo": "",
+    "favicon": "",
+    "primaryColor": "#000000",
+    "secondaryColor": "#000000",
+    "projectWebsite": "",
+    "saleDescription": "",
+    "access": {
+    },
+    "socials": {
+      "twitter": "",
+      "discord": "",
+      "telegram": ""
+    },
+    "documents": [
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      }
+    ]
+  },
+  
+    {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0xdc0367bc2ec28bd319501273ea84d855d99b7f16d8fb54ecdd58c9b34fd7d9e3",
+    "saleName": "Rand",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,	  
+    "logo": "",
+    "favicon": "",
+    "primaryColor": "#000000",
+    "secondaryColor": "#000000",
+    "projectWebsite": "",
+    "saleDescription": "",
+    "access": {
+    },
+    "socials": {
+      "twitter": "",
+      "discord": "",
+      "telegram": ""
+    },
+    "documents": [
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      }
+    ]
+  },
+  
+    {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0x8eb324bd876cc1999169a95177b12aebea13290e50654df4231236570685648b",
+    "saleName": "Lumerin",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,	  
+    "logo": "",
+    "favicon": "",
+    "primaryColor": "#000000",
+    "secondaryColor": "#000000",
+    "projectWebsite": "",
+    "saleDescription": "",
+    "access": {
+    },
+    "socials": {
+      "twitter": "",
+      "discord": "",
+      "telegram": ""
+    },
+    "documents": [
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      },
+      {
+        "name": "",
+        "uri": ""
+      }
+    ]
+  },
   {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
