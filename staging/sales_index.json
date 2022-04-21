@@ -6,35 +6,22 @@
     "saleName": "Fayre",
     "hidden": false,
     "purchaseDocumentsGenerated": false,	  
-    "logo": "",
-    "favicon": "",
-    "primaryColor": "#000000",
-    "secondaryColor": "#000000",
-    "projectWebsite": "",
-    "saleDescription": "",
+    "logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "primaryColor": "#923AD4",
+    "secondaryColor": "#D455D7",
+    "projectWebsite": "https://www.fayre.com/",
+    "saleDescription": "Add FAYRE to your portfolio by participating in the Private Sale. Powered by Tokensoft.",
     "access": {
     },
     "socials": {
-      "twitter": "",
-      "discord": "",
-      "telegram": ""
+      "twitter": "https://twitter.com/FayreLabs",
+      "telegram": "https://t.me/Fayre"
     },
     "documents": [
       {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
+        "name": "Example Document",
+        "uri": "https://example.com/document"
       }
     ]
   },
