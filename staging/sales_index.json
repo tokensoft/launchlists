@@ -21,7 +21,7 @@
     "documents": [
       {
         "name": "Example Document",
-        "uri": "https://example.com/document"
+        "uri": "https://example.com/document.pdf"
       }
     ]
   },
@@ -49,7 +49,7 @@
     "documents": [
       {
         "name": "Example Doc",
-        "uri": "https://example.com/document"
+        "uri": "https://example.com/document.pdf"
       }
     ]
   },
@@ -66,30 +66,17 @@
     "primaryColor": "#000000",
     "secondaryColor": "#000000",
     "projectWebsite": "",
-    "saleDescription": "",
+    "saleDescription": "Titan’s Lumerin protocol allows Bitcoin hashpower to be a tradable, liquid financial asset, unlocking mining profitability and providing greater access to capital and investments.",
     "access": {
     },
     "socials": {
-      "twitter": "",
-      "discord": "",
-      "telegram": ""
+      "twitter": "https://twitter.com/hellolumerin",
+      "discord": "https://discord.gg/ncBTzhZPP6"
     },
     "documents": [
       {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
+        "name": "SAFT",
+        "uri": "https://example.com/saft.pdf"
       }
     ]
   },
