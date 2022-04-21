@@ -33,35 +33,23 @@
     "saleName": "Rand",
     "hidden": false,
     "purchaseDocumentsGenerated": false,	  
-    "logo": "",
-    "favicon": "",
-    "primaryColor": "#000000",
-    "secondaryColor": "#000000",
-    "projectWebsite": "",
-    "saleDescription": "",
+    "logo": "https://drive.google.com/uc?id=1yGszNaa7f7PaDddH3u9rYS_wA7Vs0JuD",
+    "favicon": "https://drive.google.com/uc?id=1yGszNaa7f7PaDddH3u9rYS_wA7Vs0JuD",
+    "primaryColor": "#546DFE",
+    "secondaryColor": "#C1D0FB",
+    "projectWebsite": "https://www.rand.network/",
+    "saleDescription": "Add RND to your portfolio by participating in the private sale.",
     "access": {
     },
     "socials": {
-      "twitter": "",
-      "discord": "",
-      "telegram": ""
+      "twitter": "https://twitter.com/RandNetwork",
+      "discord": "https://discord.gg/EW7uVPgGEu",
+      "telegram": "https://t.me/randnetwork"
     },
     "documents": [
       {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
-      },
-      {
-        "name": "",
-        "uri": ""
+        "name": "Example Doc",
+        "uri": "https://example.com/document"
       }
     ]
   },
