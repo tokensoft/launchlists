@@ -1,9 +1,9 @@
 [
   {
     "chainId": 3,
-    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
-    "saleId": "0x3ba3be5f8a7a61779457a1d92bffbe4c312a5ffeef60ad879bc1abbdb860109f",
-    "saleName": "GST3: Example Sale",
+    "saleManagerAddress": "0x6b23287E81f80E13294CBBf89700eabaD71438DD",
+    "saleId": "0x5552e5c5e9f7ffff8f1f731a16fc9a2ce6bf11749ffd7b0c085dbf534e9b084b",
+    "saleName": "ELFIN Sale",
     "hidden": false,
     "purchaseDocumentsGenerated": false,	  
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
