@@ -104,8 +104,7 @@
       }
     ]
   },
-
-    {
+  {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
     "saleId": "0x8eb324bd876cc1999169a95177b12aebea13290e50654df4231236570685648b",
@@ -254,10 +253,10 @@
     "saleName": "Aaron's Test Token",
     "hidden": false,
     "purchaseDocumentsGenerated": false,
-    "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "primaryColor": "#02ba88",
-    "secondaryColor": "#FFFFFF",
+    "logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "primaryColor": "#d5001e",
+    "secondaryColor": "#23368a",
     "projectWebsite": "https://example.com",
     "saleDescription": "Aaron's Test Sale",
     "access": {
