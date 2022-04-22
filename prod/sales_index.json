@@ -2,39 +2,58 @@
   {
     "chainId": 1,
     "saleManagerAddress": "0xb41169cc124298be20e2ca956cc46e266ab5e203",
-    "saleId": "0x415ccd1e796a36aa3c551de5a097c7012b9146c6fd6fca03fcf7b0401fbf5a85",
-    "saleName": "Softies v2",
+    "saleId": "0xb19cc3dfe637bee9d7fac256f1bb84aaddbfa4d535662c7ae3613a7c4e09b7cd",
+    "saleName": "Devs Do Something: $SOFT",
     "hidden": false,
     "purchaseDocumentsGenerated": false,
-    "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "primaryColor": "#0000ff",
-    "secondaryColor": "#00ddff",
-    "projectWebsite": "https://softies.example.com",
-    "saleDescription": "This is a sample event.",
+    "logo": "https://gateway.pinata.cloud/ipfs/QmY2hL3dvLBWffi3AM1Mqr6ipyKssdwn7RgypSu5jeb9Js",
+    "favicon": "https://gateway.pinata.cloud/ipfs/QmY2hL3dvLBWffi3AM1Mqr6ipyKssdwn7RgypSu5jeb9Js",
+    "primaryColor": "#F37321",
+    "secondaryColor": "#1D1760",
+    "projectWebsite": "https://tokensoft.io",
+    "saleDescription": "Welcome to the softer net. Goverened by $SOFT, powered by you",
     "access": {
-	      "limitToRegions": ["US", "FR", "CA"],
-	    "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmWvyWqwjVMaP2zTtfoxM4zSrLzkmoBdzN7F59Qx659moF"
+      "limitToRegions": [
+        "US",
+        "CA"
+      ],
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmWvyWqwjVMaP2zTtfoxM4zSrLzkmoBdzN7F59Qx659moF"
     },
     "socials": {
+      "twitter": "https://twitter.com/tokensoftinc",
+      "discord": "https://discord.gg/MaNGtXbe",
+      "telegram": "https://t.me/tokensoft"
     },
     "documents": [
       {
-        "name": "Purchase Agreement",
-        "uri": "https://example.com/saft.pdf",
-        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-      },
+        "name": "Probably Nothing",
+        "uri": "https://probably.nothing.com/really.pdf"
+      }
+    ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
+    "saleName": "Fayre",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "primaryColor": "#923AD4",
+    "secondaryColor": "#D455D7",
+    "projectWebsite": "https://www.fayre.com/",
+    "saleDescription": "Add FAYRE to your portfolio by participating in the Private Sale. Powered by Tokensoft.",
+    "access": {
+    },
+    "socials": {
+      "twitter": "https://twitter.com/FayreLabs",
+      "telegram": "https://t.me/Fayre"
+    },
+    "documents": [
       {
-        "name": "Disclosures",
-        "uri": "https://example.com/disclosures.pdf"
-      },
-      {
-        "name": "Terms",
-        "uri": "https://example.com/terms.pdf"
-      },
-      {
-        "name": "Privacy Policy",
-        "uri": "https://example.com/privacy.pdf"
+        "name": "Example Document",
+        "uri": "https://example.com/document.pdf"
       }
     ]
   },
@@ -52,7 +71,7 @@
     "projectWebsite": "https://softies.example.com",
     "saleDescription": "This is a sample event.",
     "access": {
-	    "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmWvyWqwjVMaP2zTtfoxM4zSrLzkmoBdzN7F59Qx659moF"
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmWvyWqwjVMaP2zTtfoxM4zSrLzkmoBdzN7F59Qx659moF"
     },
     "socials": {
     },

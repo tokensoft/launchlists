@@ -1,4 +1,4 @@
-[  
+[
 {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
@@ -26,7 +26,38 @@
       }
     ]
   },
-  
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0x99134aead78cc79d1c04090b9754f96e562d0be7b18fbbd9f7630804f49b961c",
+    "saleName": "Tokensoft Power Points",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://gateway.pinata.cloud/ipfs/QmY2hL3dvLBWffi3AM1Mqr6ipyKssdwn7RgypSu5jeb9Js",
+    "favicon": "https://gateway.pinata.cloud/ipfs/QmY2hL3dvLBWffi3AM1Mqr6ipyKssdwn7RgypSu5jeb9Js",
+    "primaryColor": "#F37321",
+    "secondaryColor": "#1D1760",
+    "projectWebsite": "https://tokensoft.io",
+    "saleDescription": "Welcome to the softer net. Goverened by $SOFT, powered by you",
+    "access": {
+      "limitToRegions": [
+        "US",
+        "CA"
+      ],
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmWvyWqwjVMaP2zTtfoxM4zSrLzkmoBdzN7F59Qx659moF"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/tokensoftinc",
+      "discord": "https://discord.gg/MaNGtXbe",
+      "telegram": "https://t.me/tokensoft"
+    },
+    "documents": [
+      {
+        "name": "Probably Nothing",
+        "uri": "https://probably.nothing.com/really.pdf"
+      }
+    ]
+  },
   {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
@@ -104,8 +135,7 @@
       }
     ]
   },
-
-    {
+  {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
     "saleId": "0x8eb324bd876cc1999169a95177b12aebea13290e50654df4231236570685648b",
@@ -254,10 +284,10 @@
     "saleName": "Aaron's Test Token",
     "hidden": false,
     "purchaseDocumentsGenerated": false,
-    "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "primaryColor": "#02ba88",
-    "secondaryColor": "#FFFFFF",
+    "logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "primaryColor": "#d5001e",
+    "secondaryColor": "#23368a",
     "projectWebsite": "https://example.com",
     "saleDescription": "Aaron's Test Sale",
     "access": {
