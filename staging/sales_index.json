@@ -199,5 +199,45 @@
         "uri": "https://example.com/privacy.pdf"
       }
     ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0x08f2969d6a97cfa62b0763e94258195918681acaef69a02f75a082d775914446",
+    "saleName": "Aaron's Test Token",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,	  
+    "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
+    "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
+    "primaryColor": "#02ba88",
+    "secondaryColor": "#FFFFFF",
+    "projectWebsite": "https://example.com",
+    "saleDescription": "Aaron's Test Sale",
+    "access": {
+    },
+    "socials": {
+      "twitter": "https://twitter.com/tokensoftinc",
+      "discord": "https://discord.com",
+      "telegram": "https://t.me/hi"
+    },
+    "documents": [
+      {
+        "name": "SAFT",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      },
+      {
+        "name": "Disclosures",
+        "uri": "https://example.com/disclosures.pdf"
+      },
+      {
+        "name": "Terms",
+        "uri": "https://example.com/terms.pdf"
+      },
+      {
+        "name": "Privacy Policy",
+        "uri": "https://example.com/privacy.pdf"
+      }
+    ]
   }
 ]
