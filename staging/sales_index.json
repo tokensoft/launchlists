@@ -1,5 +1,5 @@
 [
-    {
+  {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
     "saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
@@ -25,8 +25,7 @@
       }
     ]
   },
-  
-    {
+  {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
     "saleId": "0xdc0367bc2ec28bd319501273ea84d855d99b7f16d8fb54ecdd58c9b34fd7d9e3",
@@ -213,6 +212,46 @@
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
       "telegram": "https://t.me/hi"
+    },
+    "documents": [
+      {
+        "name": "SAFT",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      },
+      {
+        "name": "Disclosures",
+        "uri": "https://example.com/disclosures.pdf"
+      },
+      {
+        "name": "Terms",
+        "uri": "https://example.com/terms.pdf"
+      },
+      {
+        "name": "Privacy Policy",
+        "uri": "https://example.com/privacy.pdf"
+      }
+    ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0x985a5724c16e150f86cf1833aa4640fdc6b8da8a1a220a3c87e4ef54079af7b9",
+    "saleName": "Gilbert's Glib Token (GLIB)",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,	  
+    "logo": "https://emc3coaching.com/wp-content/uploads/2021/01/shrug-3.png",
+    "favicon": "https://emc3coaching.com/wp-content/uploads/2021/01/shrug-3.png",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#800923",
+    "projectWebsite": "https://100x.dev",
+    "saleDescription": "Ethereum looked at the arbitrage, nor since Decred generates a automated blockchain in many digital identity, NEO returns the multi signature! IOTA is wary of many immutable oracle, however, although Digitex Futures thought a astroturfing, OmiseGo cut off many provably hyperledger. Mt. Gox could be some block for the double spend! When Bitcoin chose many arbitrage behind many smart contract, Binance Coin serves few burned FUD after the peer-to-peer network!",
+    "access": {
+      "limitToRegions": ["US", "CA", "GB"],
+      "merkleProofs": "0x0"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/Motoma"
     },
     "documents": [
       {
