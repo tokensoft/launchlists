@@ -1,4 +1,27 @@
 [
+  
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0x5552e5c5e9f7ffff8f1f731a16fc9a2ce6bf11749ffd7b0c085dbf534e9b084b",
+    "saleName": "ELFIN Sale",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://elfinkingdom.com/_nuxt/img/elfin.d4d9450.svg",
+    "favicon": "https://elfinkingdom.com/_nuxt/img/elfin.d4d9450.svg",
+    "primaryColor": "#FDD703",
+    "secondaryColor": "#002D18",
+    "projectWebsite": "https://elfinkingdom.com/home",
+    "saleDescription": "Quests, Combat, and More",
+    "access": {
+    },
+    "socials": {
+      "twitter": "https://twitter.com/elfinkingdom",
+      "telegram": "https://t.me/ElfinKDM"
+    },
+    "documents": [
+    ]
+  },
   {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
