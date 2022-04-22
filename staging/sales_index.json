@@ -5,7 +5,7 @@
     "saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
     "saleName": "Fayre",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
     "favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
     "primaryColor": "#923AD4",
@@ -31,7 +31,7 @@
     "saleId": "0xdc0367bc2ec28bd319501273ea84d855d99b7f16d8fb54ecdd58c9b34fd7d9e3",
     "saleName": "Rand",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://drive.google.com/uc?id=1yGszNaa7f7PaDddH3u9rYS_wA7Vs0JuD",
     "favicon": "https://drive.google.com/uc?id=1yGszNaa7f7PaDddH3u9rYS_wA7Vs0JuD",
     "primaryColor": "#546DFE",
@@ -51,14 +51,14 @@
       }
     ]
   },
-  
+
     {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
     "saleId": "0x8eb324bd876cc1999169a95177b12aebea13290e50654df4231236570685648b",
     "saleName": "Lumerin",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://drive.google.com/uc?id=1xYG3oFlBCFxF3ohkKoIb65EM9uLHOWE1",
     "favicon": "https://drive.google.com/uc?id=1xYG3oFlBCFxF3ohkKoIb65EM9uLHOWE1",
     "primaryColor": "#000000",
@@ -83,7 +83,7 @@
     "saleId": "0x3ba3be5f8a7a61779457a1d92bffbe4c312a5ffeef60ad879bc1abbdb860109f",
     "saleName": "GST3: Example Sale",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
@@ -122,7 +122,7 @@
     "saleId": "0xc0bda8afa273fd877a500743f823e5e7fcbf28915bcaeb85ef4b96f5ee740f7a",
     "saleName": "Example Sale",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
@@ -161,7 +161,7 @@
     "saleId": "0xc9ba8ab8b24d909ccc15e56d60a83261d1611a4fd2d6731e7bcf3530ffccbdf7",
     "saleName": "Example Sale 2",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
@@ -200,7 +200,7 @@
     "saleId": "0x08f2969d6a97cfa62b0763e94258195918681acaef69a02f75a082d775914446",
     "saleName": "Aaron's Test Token",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "primaryColor": "#02ba88",
@@ -211,7 +211,8 @@
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
-      "telegram": "https://t.me/hi"
+      "telegram": "https://t.me/hi",
+      "discord": "https://discord.com/invite/proof"
     },
     "documents": [
       {
@@ -239,7 +240,7 @@
     "saleId": "0x985a5724c16e150f86cf1833aa4640fdc6b8da8a1a220a3c87e4ef54079af7b9",
     "saleName": "Gilbert's Glib Token (GLIB)",
     "hidden": false,
-    "purchaseDocumentsGenerated": false,	  
+    "purchaseDocumentsGenerated": false,
     "logo": "https://emc3coaching.com/wp-content/uploads/2021/01/shrug-3.png",
     "favicon": "https://emc3coaching.com/wp-content/uploads/2021/01/shrug-3.png",
     "primaryColor": "#FFFFFF",
