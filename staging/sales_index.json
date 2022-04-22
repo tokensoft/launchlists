@@ -236,7 +236,7 @@
   {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
-    "saleId": "0x985a5724c16e150f86cf1833aa4640fdc6b8da8a1a220a3c87e4ef54079af7b9",
+    "saleId": "0xc3a810734a8093f5b876f28a8e1f138357b434dac6339558061767db9fb861e1",
     "saleName": "Gilbert's Glib Token (GLIB)",
     "hidden": false,
     "purchaseDocumentsGenerated": false,	  
