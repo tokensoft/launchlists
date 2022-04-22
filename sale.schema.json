@@ -23,7 +23,7 @@
       },
       "purchaseDocumentsGenerated": {
         "type": "boolean"
-      },  
+      },
       "logo": {
         "type": "string"
       },
@@ -49,15 +49,15 @@
         "properties": {
           "twitter": {
             "type": "string",
-            "pattern": "^https://twitter.com"
+            "pattern": "(https?:\\\/\\\/)?(www\\.)?(twitter\\.com)\\\/(\\w+)?"
           },
           "discord": {
             "type": "string",
-            "pattern": "^https://discord.com"
+            "pattern": "(https?:\\\/\\\/)?(www\\.)?((discord\\.com\\\/invite)|(discord\\.gg))\\\/(\\w+)?"
           },
           "telegram": {
             "type": "string",
-            "pattern": "^https://t.me"
+            "pattern": "(https?:\\\/\\\/)?(www\\.)?(t\\.me\\\/).+"
           }
         },
         "additionalProperties": false
