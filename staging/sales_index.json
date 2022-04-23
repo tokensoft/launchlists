@@ -356,5 +356,45 @@
         "uri": "https://example.com/privacy.pdf"
       }
     ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0x918dbfbb6f7f30d9979bf4f66447c807f68817d0ff0d9420087ebb1b9720baeb",
+    "saleName": "ABL Test Sale",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,	  
+    "logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "primaryColor": "#d5001e",
+    "secondaryColor": "#23368a",
+    "projectWebsite": "https://example.com",
+    "saleDescription": "Example description",
+    "access": {
+    },
+    "socials": {
+      "twitter": "https://twitter.com/tokensoftinc",
+      "discord": "https://discord.com",
+      "telegram": "https://t.me/hi"
+    },
+    "documents": [
+      {
+        "name": "SAFT",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      },
+      {
+        "name": "Disclosures",
+        "uri": "https://example.com/disclosures.pdf"
+      },
+      {
+        "name": "Terms",
+        "uri": "https://example.com/terms.pdf"
+      },
+      {
+        "name": "Privacy Policy",
+        "uri": "https://example.com/privacy.pdf"
+      }
+    ]
   }
 ]
