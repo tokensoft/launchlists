@@ -371,6 +371,8 @@
     "projectWebsite": "https://example.com",
     "saleDescription": "Example description",
     "access": {
+      "limitToRegions": ["US", "CA", "GB"],
+      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
