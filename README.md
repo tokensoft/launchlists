@@ -1,11 +1,17 @@
-# Tokensoft Tokenlists
-A unified way for web3 projects to decentralize contextual information about 
+# Tokensoft Launchlists
+A JSON Schema, called Launch List, a unified way for web3 projects to decentralize contextual information and metadata about 
 their smart contract-based token sales or auctions.
 
-## Intro
+## Why?
+
+The Launch list is a specification for lists of metadata pertaining to token sales and auctions. This repo
+is inspired by the [Uniswap Token Lists](https://github.com/Uniswap/token-lists) and the [Trust Wallet Asset Library](https://github.com/trustwallet/assets/tree/master/blockchains)
+and is designed to enable a direct connection between token projects and web3 interfaces. Any addition to the Launch List has to follow the schema specification outlined in this doc.  
+
+## Start here
 To set up a new sale, follow these steps:
 1. Create a new sale using https://app.tokensoft.io and retrieve the `saleId` value or retreive a unique identifier that is compatible with your platform of your choice.
-2. Submit a pull request to https://github.com/tokensoft/tokenlists/compare to this repository with updated sale configuration including your sale.
+2. Submit a pull request to https://github.com/tokensoft/launchlists/compare to this repository with updated sale configuration including your sale.
 3. The sale will be accessible users once the pull request is approved by the maintainers of this repo.
 4. To update this configuration once the sale is visible, create another pull request.
 
@@ -17,8 +23,8 @@ On Github:
 On your machine:
 * Install git: https://github.com/git-guides/install-git
 * Install npm: https://nodejs.org/en/
-* Clone the forked repository: `git clone https://github.com/[your github username here]/tokenlists.git`
-* Enter the repository: `cd tokenlists`
+* Clone the forked repository: `git clone https://github.com/[your github username here]/launchlists.git`
+* Enter the repository: `cd launchlists`
 * Check out a new branch: `git checkout -b the-name-of-my-sale`
 * Install dependencies: `npm install`
 
@@ -33,15 +39,15 @@ On your machine:
 * Git push: `git push origin <the-name-of-my-sale>`
 
 On github:
-* Submit a pull request from your forked repository to https://github.com/tokensoft/tokenlists
+* Submit a pull request from your forked repository to https://github.com/tokensoft/launchlists
 
-Once complete the sale will be visible on https://app.tokensoft.io or other platforms supporting tokenlists
+Once complete the sale will be visible on https://app.tokensoft.io or other platforms supporting Launchlists
 
 ### Staging
 You can try out the Tokensoft platform using the same steps as the production flow below, except:
 * Instead of editing, `./prod/sales_index.json`, add your sale config to the array of sales in `./staging/sales_index.json`
   * Set chain ID to `3` for ropsten
-* View sales at https://app.stagetokensoft.com or other platforms supporting tokenlists
+* View sales at https://app.stagetokensoft.com or other platforms supporting Launchlists
 * The network is Ropsten: this is not suitable for real sales!
 
 ## Sale Configuration
