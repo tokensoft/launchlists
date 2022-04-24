@@ -1,13 +1,19 @@
-# Tokensoft Sale Repository
-Public sale config for projects using Tokensoft tech to launch sales.
+# Tokensoft Launchlists
+A JSON Schema, called Launch List, a unified way for web3 projects to decentralize contextual information and metadata about 
+their smart contract-based token sales or auctions.
 
-## Intro
+## Why?
+
+The Launch list is a specification for lists of metadata pertaining to token sales and auctions. This repo
+is inspired by the [Uniswap Token Lists](https://github.com/Uniswap/token-lists) and the [Trust Wallet Asset Library](https://github.com/trustwallet/assets/tree/master/blockchains)
+and is designed to enable a direct connection between token projects and web3 interfaces. Any addition to the Launch List has to follow the schema specification outlined in this doc.  
+
+## Start here
 To set up a new sale, follow these steps:
-1. Contact sales@tokensoft.io to engage Tokensoft for technology and compliance services.
-2. Create a new sale using https://app.tokensoft.io: this will provide the `saleId` value.
-3. Submit a pull request to https://github.com/tokensoft/tokenlists/compare to this repository with updated sale configuration including your sale.
-4. The sale will be accessible users once the pull request is approved by Tokensoft.
-5. To update this configuration once the sale is visible, create another pull request.
+1. Create a new sale using https://app.tokensoft.io and retrieve the `saleId` value or retreive a unique identifier that is compatible with your platform of your choice.
+2. Submit a pull request to https://github.com/tokensoft/launchlists/compare to this repository with updated sale configuration including your sale.
+3. The sale will be accessible users once the pull request is approved by the maintainers of this repo.
+4. To update this configuration once the sale is visible, create another pull request.
 
 ## Setup
 On Github:
@@ -17,8 +23,8 @@ On Github:
 On your machine:
 * Install git: https://github.com/git-guides/install-git
 * Install npm: https://nodejs.org/en/
-* Clone the forked repository: `git clone https://github.com/[your github username here]/tokenlists.git`
-* Enter the repository: `cd tokenlists`
+* Clone the forked repository: `git clone https://github.com/[your github username here]/launchlists.git`
+* Enter the repository: `cd launchlists`
 * Check out a new branch: `git checkout -b the-name-of-my-sale`
 * Install dependencies: `npm install`
 
@@ -33,15 +39,15 @@ On your machine:
 * Git push: `git push origin <the-name-of-my-sale>`
 
 On github:
-* Submit a pull request from your forked repository to https://github.com/tokensoft/tokenlists
+* Submit a pull request from your forked repository to https://github.com/tokensoft/launchlists
 
-Once complete the sale will be visible on https://app.tokensoft.io
+Once complete the sale will be visible on https://app.tokensoft.io or other platforms supporting Launchlists
 
 ### Staging
 You can try out the Tokensoft platform using the same steps as the production flow below, except:
 * Instead of editing, `./prod/sales_index.json`, add your sale config to the array of sales in `./staging/sales_index.json`
   * Set chain ID to `3` for ropsten
-* View sales at https://app.stagetokensoft.com
+* View sales at https://app.stagetokensoft.com or other platforms supporting Launchlists
 * The network is Ropsten: this is not suitable for real sales!
 
 ## Sale Configuration
@@ -80,21 +86,22 @@ Use this repository to configure the following sale properties. Note that all et
 * `projectWebsite`: a URI to the project behind the sale
 
 ### Socials
-* List links to accounts oncommon social platforms (coming soon)
+* List links to accounts on common social platforms 
 
 ### Documents
 Provide an array of documents that must be reviewed by sale participants. Each document includes these fields:
 * `name`: the name of the document that will be visible to sale participants, e.g. "Purchase Agreement"
 * `uri`: a link to a `.pdf` document
-* `appendSignaturePageUri` (optional): a link to a one-page `.pdf` template countersigned by your project. If provided, Tokensoft will fill in this template with sale participant information and digital signatures. Tokensoft will help generate this document.
+* `appendSignaturePageUri` (optional): a link to a one-page `.pdf` template countersigned by your project. 
+If provided, the same manager should fill in this template with sale participant information and digital signatures. 
+The sale manager should help generate this document.
 
 ### Access
-When a new sale is created, it can either be public (100% globally accessible) or private (restricted to specific users). If private, Tokensoft will work with you to generate a list of users that meet the compliance requirements provided by your counsel. Use these two fields to restrict access to specific types of user for pivate sales.
+When a new sale is created, it can either be public (100% globally accessible) or private (restricted to specific users). 
+If private, the sale manager will work with you to generate a list of users that meet the compliance requirements provided by your counsel. Use these two fields to restrict access to specific types of user for pivate sales.
 
 * `limitToRegions` (optional): provide a list of ISO Alpha-2 country codes for regions where the sale should be accessible. If this field is provided, users that submit an address in any region not on this list will not be able to participate in the sale. Note that Tokensoft has additional compliance requirements: listing a country here does not imply that Tokensoft can support sale participants in that country.
-* `merkleProofs` (optional): Tokensoft will add this value to reference the merkle proofs allowing users to access a private sale
+* `merkleProofs` (optional): The sale manager will add this value to reference the merkle proofs allowing users to access a private sale
 
-Access restrictions are additive: to access a private sale, users must meet all compliance requirements:
-* Pass identity verification via Tokensoft
-* Provide an address in a listed country (if `limitToRegions` is set)
-* Etc
+Access restrictions are additive: to access a private sale, the sale manager may place various restrictions on access. These may include ownership of an NFT, completion of KYC or similar.
+
