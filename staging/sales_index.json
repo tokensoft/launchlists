@@ -111,16 +111,16 @@
   {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
-    "saleId": "0x24df9a08a9b8b578cc561afdb0f72e9b016e886d0add161eda6671be7cfb2fc7",
-    "saleName": "Good Morning",
-    "logo": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
-    "favicon": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+    "saleId": "0x13242cb35a29c506a10bf62588a52715c621c6aa2f4d34bbe552960ef79785b2",
+    "saleName": "Pillow",
+    "logo": "https://cdn3.vectorstock.com/i/1000x1000/34/47/pillow-icon-logo-design-template-vector-30733447.jpg",
+    "favicon": "https://cdn3.vectorstock.com/i/1000x1000/34/47/pillow-icon-logo-design-template-vector-30733447.jpg",
     "primaryColor": "#000000",
-    "secondaryColor": "#4E1459",
+    "secondaryColor": "#4794B5",
     "projectWebsite": "https://www.tokensoft.io/",
-    "saleDescription": "Good Morning Test Public Sale",
+    "saleDescription": "Pillow Test Public Sale",
     "access": {
-	 "limitToRegions": ["US"]
+      "limitToRegions": ["US"]
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
@@ -129,7 +129,7 @@
     },
     "documents": [
       {
-        "name": "Probably Nothing",
+        "name": "Sleep Now",
         "uri": "https://probably.nothing.com/really.pdf"
       }
     ]
