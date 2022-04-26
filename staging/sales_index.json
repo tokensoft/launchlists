@@ -2,6 +2,33 @@
 {
     "chainId": 3,
     "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0xbfccfea8db5e7e7b6f475cc19c7db53f40f4f51afa75c8b7f2c0f78019ce6b5c",
+    "saleName": "Rand Network",
+    "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
+    "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
+    "primaryColor": "#000000",
+    "secondaryColor": "#0000FF",
+    "projectWebsite": "https://rand.network",
+    "saleDescription": "Rand Test Public Sale",
+    "access": {
+	 "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA","US"]
+    },
+    "socials": {
+      "twitter": "https://twitter.com/",
+      "discord": "discord.gg/",
+      "telegram": "https://t.me/"
+    },
+    "documents": [
+      {
+        "name": "Purchase Agreement",
+        "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      }
+    ]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
     "saleId": "0x51a1decdd29f23cdc16bc60a8b7db673e58522343ae40e8e25b540ec5e8f92e9",
     "saleName": "Element.Black",
     "logo": "https://tokensoft-element-black.s3.amazonaws.com/ELT%20logo%20W.png",
