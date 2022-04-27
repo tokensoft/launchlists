@@ -76,12 +76,6 @@ Use this repository to configure the following sale properties. Note that all et
 ### Favicon
 * `favicon`: a URI to a .ico logo for browser tabs
 
-### Primary Color
-* `primaryColor`: a primary hex RGB color, e.g. `#00ff00` that will be used for buttons and links in https://app.tokensoft.io
-
-### Secondary Color
-* `secondaryColor`: an accent hex RGB color, e.g. `#00ff00` that will be used for secondary styling in https://app.tokensoft.io
-
 ### Project Website
 * `projectWebsite`: a URI to the project behind the sale
 
