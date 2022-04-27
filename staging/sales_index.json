@@ -12,7 +12,7 @@
     "saleDescription": "AWESOMNE PEEPLE ONLY Sale",
     "access": {
 	    "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA","US"],
-	    "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
+	    "merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
 
     },
     "socials": {
@@ -39,7 +39,7 @@
     "saleDescription": "Rand Test Public Sale",
     "access": {
 	 "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA","US"],
-         "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
+         "merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
     },
     "socials": {
       "twitter": "https://twitter.com/randnetwork",
@@ -440,7 +440,7 @@
     "saleDescription": "Ethereum looked at the arbitrage, nor since Decred generates a automated blockchain in many digital identity, NEO returns the multi signature! IOTA is wary of many immutable oracle, however, although Digitex Futures thought a astroturfing, OmiseGo cut off many provably hyperledger. Mt. Gox could be some block for the double spend! When Bitcoin chose many arbitrage behind many smart contract, Binance Coin serves few burned FUD after the peer-to-peer network!",
     "access": {
       "limitToRegions": ["US", "CA", "GB"],
-      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
+      "merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
     },
     "socials": {
       "twitter": "https://twitter.com/Motoma"
@@ -480,7 +480,7 @@
     "saleDescription": "Example description",
     "access": {
       "limitToRegions": ["US", "CA", "GB"],
-      "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
+      "merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
