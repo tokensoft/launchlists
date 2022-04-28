@@ -467,8 +467,8 @@
   },
   {
     "chainId": 3,
-    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
-    "saleId": "0x918dbfbb6f7f30d9979bf4f66447c807f68817d0ff0d9420087ebb1b9720baeb",
+    "saleManagerAddress": "0x232C191895e277C80d43faf5a65C12D9F7A65F60",
+    "saleId": "0xa14b80abbec6935f43db531e19133e326e955c487359d7e2afa20f817f5444c4",
     "saleName": "ABL Test Sale",
     "hidden": false,
     "purchaseDocumentsGenerated": false,
