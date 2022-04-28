@@ -30,14 +30,6 @@
       "favicon": {
         "type": "string"
       },
-      "primaryColor": {
-        "type": "string",
-        "pattern": "^#[0-9a-fA-F]{6}$"
-      },
-      "secondaryColor": {
-        "type": "string",
-        "pattern": "^#[0-9a-fA-F]{6}$"
-      },
       "projectWebsite": {
         "type": "string"
       },
@@ -117,8 +109,6 @@
       "saleName",
       "logo",
       "favicon",
-      "primaryColor",
-      "secondaryColor",
       "projectWebsite",
       "saleDescription",
       "socials",

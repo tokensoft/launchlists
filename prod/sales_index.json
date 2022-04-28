@@ -8,8 +8,6 @@
     "purchaseDocumentsGenerated": false,
     "logo": "https://gateway.pinata.cloud/ipfs/QmY2hL3dvLBWffi3AM1Mqr6ipyKssdwn7RgypSu5jeb9Js",
     "favicon": "https://gateway.pinata.cloud/ipfs/QmY2hL3dvLBWffi3AM1Mqr6ipyKssdwn7RgypSu5jeb9Js",
-    "primaryColor": "#F37321",
-    "secondaryColor": "#1D1760",
     "projectWebsite": "https://tokensoft.io",
     "saleDescription": "Welcome to the softer net. Goverened by $SOFT, powered by you",
     "access": {
@@ -40,8 +38,6 @@
     "purchaseDocumentsGenerated": false,
     "logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
     "favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
-    "primaryColor": "#923AD4",
-    "secondaryColor": "#D455D7",
     "projectWebsite": "https://www.fayre.com/",
     "saleDescription": "Add FAYRE to your portfolio by participating in the Private Sale. Powered by Tokensoft.",
     "access": {
@@ -66,8 +62,6 @@
     "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "primaryColor": "#0000ff",
-    "secondaryColor": "#00ddff",
     "projectWebsite": "https://softies.example.com",
     "saleDescription": "This is a sample event.",
     "access": {
@@ -104,8 +98,6 @@
     "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "primaryColor": "#00ff00",
-    "secondaryColor": "#00ddff",
     "projectWebsite": "https://softies.example.com",
     "saleDescription": "This is a sample event.",
     "socials": {
