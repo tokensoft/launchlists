@@ -473,5 +473,29 @@
         "uri": "https://example.com/privacy.pdf"
       }
     ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x5f52f0b5aada180a905c10cdc2836308dc4131df",
+    "saleId": "0xacd08dabee1b634adc7ac0adea56431957290142300ac23fd572072627337570",
+    "saleName": "Randall's Public Sale",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+    "favicon": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+    "projectWebsite": "https://example.com",
+    "saleDescription": "Example description",
+    "access": {
+    },
+    "socials": {
+      "twitter": "https://twitter.com/elfinkingdom",
+      "telegram": "https://t.me/ElfinKDM"
+    },
+    "documents": [  
+      {
+        "name": "Example Document",
+        "uri": "https://example.com/document.pdf"
+      }
+    ]
   }
 ]
