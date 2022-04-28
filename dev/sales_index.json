@@ -8,8 +8,6 @@
     "purchaseDocumentsGenerated": false,
     "logo": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
     "favicon": "https://s3.amazonaws.com/media.tokensoft.io/logos/example_sale_logo.png",
-    "primaryColor": "#02ba88",
-    "secondaryColor": "#FFFFFF",
     "projectWebsite": "https://www.moonbridge.com",
     "saleDescription": "Moonbridge is a decentralized bridge that connects Bitcoin and Moonbeam.",
     "socials": {
