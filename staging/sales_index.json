@@ -467,7 +467,7 @@
   },
   {
     "chainId": 3,
-    "saleManagerAddress": "0x232C191895e277C80d43faf5a65C12D9F7A65F60",
+    "saleManagerAddress": "0x232c191895e277c80d43faf5a65c12d9f7a65f60",
     "saleId": "0xa14b80abbec6935f43db531e19133e326e955c487359d7e2afa20f817f5444c4",
     "saleName": "ABL Test Sale",
     "hidden": false,
@@ -479,8 +479,7 @@
     "projectWebsite": "https://example.com",
     "saleDescription": "Example description",
     "access": {
-      "limitToRegions": ["US", "CA", "GB"],
-      "merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
+      
     },
     "socials": {
       "twitter": "https://twitter.com/tokensoftinc",
