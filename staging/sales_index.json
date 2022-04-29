@@ -1,7 +1,7 @@
 [
   {
       "chainId": 3,
-      "saleManagerAddress": "0xb2A2934dE53C1dd6C330Ee1dB8cCb138A64837db",
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0x314fa309e345668dad4c0e18b20a31adf3faa32c9f23436add5c14ed430bf1a4",
       "saleName": "Rand PreSale",
       "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
