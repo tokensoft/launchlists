@@ -90,8 +90,8 @@
   },
   {
     "chainId": 3,
-    "saleManagerAddress": "0x5f52f0b5aada180a905c10cdc2836308dc4131df",
-    "saleId": "0xacd08dabee1b634adc7ac0adea56431957290142300ac23fd572072627337570",
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x583e17384ca49a7208a07bd31e2ddc8c01d5ad037ec4c32181f16db2c5496fb5",
     "saleName": "Randall's Public Sale",
     "hidden": false,
     "purchaseDocumentsGenerated": false,
