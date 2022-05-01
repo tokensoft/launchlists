@@ -161,7 +161,7 @@
   {
     "chainId": 3,
     "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-    "saleId": "0xe0fc748dba4a87246884ac80cbf09f4a64c8a2b031987d4ce5f8756ffde69bdc",
+    "saleId": "0x3fb5c4fa3362d2056d9558f597602912b5c1bf3a91887532ff36e21a59cd71a3",
     "saleName": "ABL Test Sale",
     "hidden": false,
     "purchaseDocumentsGenerated": false,
