@@ -2,6 +2,32 @@
   {
       "chainId": 1,
       "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+      "saleId": "0x9ba1d4803aea6509a6f44430227962415235f6a8be5d6ae1601ab521fee5f0f4",
+      "saleName": "Rand PreSale",
+      "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
+      "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
+      "projectWebsite": "https://rand.network",
+      "saleDescription": "Rand PreSale",
+      "access": {
+    "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA"]
+
+      },
+      "socials": {
+        "twitter": "https://twitter.com/randnetwork",
+        "discord": "https://discord.gg/EW7uVPgGEu",
+        "telegram": "https://t.me/randnetwork"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx%20%281%29.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "chainId": 1,
+      "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
       "saleId": "0x076e547a7f500faec9d7c4350d94233243cdbd3f900224a36668b34491d54b20",
       "saleName": "Quetzalcoatl",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
