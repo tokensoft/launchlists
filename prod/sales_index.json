@@ -1,1 +1,26 @@
-[]
+[
+  {
+      "chainId": 1,
+      "saleManagerAddress": "0x000047203100A45635029eC21bbBec5EC53Cb6f6",
+      "saleId": "0x076e547a7f500faec9d7c4350d94233243cdbd3f900224a36668b34491d54b20",
+      "saleName": "Quetzalcoatl",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+      "saleDescription": "Quetzalcoatl Sale",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/qtz",
+        "discord": "https://discord.gg/qtz",
+        "telegram": "https://t.me/qtz"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+]
