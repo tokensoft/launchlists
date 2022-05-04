@@ -1,24 +1,24 @@
 [
    {
-      "chainId": 3,
+      "chainId": 1,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-      "saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
-      "saleName": "Softernet",
-      "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-      "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-      "projectWebsite": "https://tokensoft.io",
-      "saleDescription": "Tokensoft Softernet Testnet",
+      "saleId": "0x0cfdcf06c53cee2ab8752998f4d6723c81b8114ecad5955ddefaa13c2735e12c",
+      "saleName": "ReginaArt",
+      "logo": "https://pbs.twimg.com/profile_images/1514774747921281027/oAAgTkv0_400x400.jpg",
+      "favicon": "https://pbs.twimg.com/profile_images/1514774747921281027/oAAgTkv0_400x400.jpg",
+      "projectWebsite": "https://twitter.com/ReginaArt_",
+      "saleDescription": "ReginaArt",
       "access": {
       },
       "socials": {
-        "twitter": "https://twitter.com/TokensoftInc",
-        "discord": "https://discord.gg/tokensoft",
-        "telegram": "https://t.me/tokensoft"
+        "twitter": "https://twitter.com/ReginaArt_",
+        "discord": "https://discord.gg/ReginaArt#2987",
+        "telegram": "https://t.me/RArtemtsevat"
       },
       "documents": [
         {
-          "name": "Softernet Test Plan",
-          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+          "name": "0x66A6aaEE7E64A216C683DF9AF6cb502364C010a7",
+          "uri": "file:///C:/Users/Viktor/Downloads/0x66A6aaEE7E64A216C683DF9AF6cb502364C010a7.pdf"
         }
       ]
     },
