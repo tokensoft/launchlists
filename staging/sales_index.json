@@ -1,6 +1,6 @@
 [
    {
-      "chainId": 1,
+      "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0x0cfdcf06c53cee2ab8752998f4d6723c81b8114ecad5955ddefaa13c2735e12c",
       "saleName": "ReginaArt",
