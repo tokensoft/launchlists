@@ -2,6 +2,29 @@
    {
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xe02efc9e817e2124f88c6cd5a4e5af615460119b55a7b3ef6a1bb4ce1ea11d63",
+      "saleName": "DIKIy",
+      "logo": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
+      "favicon": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
+      "projectWebsite": "https://dikiy.com",
+      "saleDescription": "DIKIy to the Mars",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/dimapolipol",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/InShariaGroup"
+      },
+      "documents": [
+        {
+          "name": "Softernet Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+        }
+      ]
+    },
+    {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
       "saleName": "Softernet",
       "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
