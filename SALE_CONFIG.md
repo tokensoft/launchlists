@@ -37,7 +37,7 @@ When this process is complete, you should get navigated to your personal copy of
       "projectWebsite": "<YOUR_HTTPS_URL>",
       "saleDescription": "<SALE_DESCRIPTION>",
       "access": {
-        "limitToRegions": ["US", "GB", "CA", "UK"]
+        "limitToRegions": ["US", "GB", "CA"]
       },
       "socials": {
         "twitter": "https://twitter.com/<TWITTER_HANDLE>",
