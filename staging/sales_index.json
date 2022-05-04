@@ -24,3 +24,250 @@
         }
       ]
   },
+  
+   {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
+      "saleName": "Softernet",
+      "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+      "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "Tokensoft Softernet Testnet",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/TokensoftInc",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/tokensoft"
+      },
+      "documents": [
+        {
+          "name": "Softernet Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+        }
+      ]
+    },
+    {
+      "chainId": 3,
+      "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+      "saleId": "0x71f26b1618db09d290f810c6960d7dfd989af24782e948721664ada36bcd3196",
+      "saleName": "DO YOU WANT TO BE RIGHT OR DO YOU WANT TO BE RICH",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+      "projectWebsite": "https://fundo.inthe.sundo",
+      "saleDescription": "The fundo sale for fundo salespeople who sell fundo to fundo sellers",
+      "access": {
+           "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA","US"],
+           "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/Qma32iKHCqYFN7TCsR1SH7Mv1KKNvmQELY81i1j6Z4Qi5F"
+      },
+      "socials": {
+        "twitter": "https://twitter.com/Motoma",
+        "telegram": "https://t.me/Motoma"
+      },
+      "documents": [
+        {
+          "name": "Proof of fun",
+          "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        },
+        {
+          "name": "Proof of being rich",
+          "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        },
+        {
+          "name": "Proof of being right",
+          "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x6ae894051f6af4330b64c7898cc06e9c2f52d103ddcc37ec991fa6df00790aac",
+      "saleName": "Quetzalcoatl 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+      "saleDescription": "Quetzalcoatl Sale",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/qtz",
+        "discord": "https://discord.gg/qtz",
+        "telegram": "https://t.me/qtz"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x2cf63c9a404bfa49907a249ba54d9975a1d0c138ca1da2f32566daefdecf6f49",
+      "saleName": "Quetzalcoatl",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+      "saleDescription": "Quetzalcoatl Sale",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/qtz",
+        "discord": "https://discord.gg/qtz",
+        "telegram": "https://t.me/qtz"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x314fa309e345668dad4c0e18b20a31adf3faa32c9f23436add5c14ed430bf1a4",
+      "saleName": "Rand PreSale",
+      "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
+      "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
+      "projectWebsite": "https://rand.network",
+      "saleDescription": "Rand PreSale",
+      "access": {
+    "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA"],
+         "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/Qma32iKHCqYFN7TCsR1SH7Mv1KKNvmQELY81i1j6Z4Qi5F"
+      },
+      "socials": {
+        "twitter": "https://twitter.com/randnetwork",
+        "discord": "https://discord.gg/EW7uVPgGEu",
+        "telegram": "https://t.me/randnetwork"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+{
+      "chainId": 3,
+      "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+      "saleId": "0xb2241f9abcdf8e34417ec6450a6915834125391126ffe09cf2f21b1dc71d08b1",
+      "saleName": "Rand Network",
+      "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
+      "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
+      "projectWebsite": "https://rand.network",
+      "saleDescription": "Rand Test Public Sale",
+      "access": {
+    "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA","US"],
+          "merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
+      },
+      "socials": {
+        "twitter": "https://twitter.com/randnetwork",
+        "discord": "https://discord.gg/EW7uVPgGEu",
+        "telegram": "https://t.me/randnetwork"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
+    "saleName": "Fayre",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "projectWebsite": "https://www.fayre.com/",
+    "saleDescription": "Add FAYRE to your portfolio by participating in the Private Sale. Powered by Tokensoft.",
+    "access": {
+    },
+    "socials": {
+      "twitter": "https://twitter.com/FayreLabs",
+      "telegram": "https://t.me/Fayre"
+    },
+    "documents": [
+      {
+        "name": "Example Document",
+        "uri": "https://example.com/document.pdf"
+      }
+    ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x3fb5c4fa3362d2056d9558f597602912b5c1bf3a91887532ff36e21a59cd71a3",
+    "saleName": "ABL Test Sale",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "projectWebsite": "https://example.com",
+    "saleDescription": "Example description",
+    "access": {
+      
+    },
+    "socials": {
+      "twitter": "https://twitter.com/tokensoftinc",
+      "discord": "https://www.discord.gg/",
+      "telegram": "https://t.me/hi"
+    },
+    "documents": [
+      {
+        "name": "SAFT",
+        "uri": "https://example.com/saft.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+      },
+      {
+        "name": "Disclosures",
+        "uri": "https://example.com/disclosures.pdf"
+      },
+      {
+        "name": "Terms",
+        "uri": "https://example.com/terms.pdf"
+      },
+      {
+        "name": "Privacy Policy",
+        "uri": "https://example.com/privacy.pdf"
+      }
+    ]
+  },
+  {
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x583e17384ca49a7208a07bd31e2ddc8c01d5ad037ec4c32181f16db2c5496fb5",
+    "saleName": "Randall's Public Sale",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+    "favicon": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+    "projectWebsite": "https://example.com",
+    "saleDescription": "Example description",
+    "access": {
+    },
+    "socials": {
+      "twitter": "https://twitter.com/elfinkingdom",
+      "telegram": "https://t.me/ElfinKDM"
+    },
+    "documents": [  
+      {
+        "name": "Example Document",
+        "uri": "https://example.com/document.pdf"
+      }
+    ]
+  }
+]
