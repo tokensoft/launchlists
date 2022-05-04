@@ -15,7 +15,12 @@
         "discord": "https://discord.gg/tokensoft",
         "telegram": "https://t.me/InShariaGroup"
       },
-      "documents": []
+      "documents": [
+        {
+          "name": "Softernet Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+        }
+      ]
     },
     {
       "chainId": 3,
