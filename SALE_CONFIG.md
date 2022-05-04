@@ -56,7 +56,7 @@ When this process is complete, you should get navigated to your personal copy of
 
 Please edit the snippets that contain <> to update with your data. The saleId will be copyable from the sale maangement screen in the Tokensoft platform. Use the copy icon to the right of the Sale ID hash to copy it to your clipboard:
 
-![Screen Shot 2022-05-04 at 15 35 38](https://user-images.githubusercontent.com/3208589/166812405-761a2a28-c04f-4378-9a10-608354762ce2.png)
+![Screen Shot 2022-05-04 at 15 35 38](https://user-images.githubusercontent.com/3208589/166812881-cd6af658-98f6-4e5c-88c9-086e12a2ad02.png)
 
 
 ## Save and commit your file to your main branch
