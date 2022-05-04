@@ -10,7 +10,7 @@
       "projectWebsite": "https://tokensoft.io",
       "saleDescription": "Danylo (DNL) Public Sale",
       "access": {
-        "limitToRegions": ["US", "GB", "CA", "UK"],
+        "limitToRegions": ["US", "GB", "CA"]
       },
       "socials": {
         "twitter": "https://twitter.com/CryptoField3",
