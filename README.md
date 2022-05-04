@@ -11,9 +11,11 @@ and is designed to enable a direct connection between token projects and web3 in
 ## Start here
 To set up a new sale, follow these steps:
 1. Create a new sale using https://app.tokensoft.io and retrieve the `saleId` value or retreive a unique identifier that is compatible with your platform of your choice.
-2. Submit a pull request to https://github.com/tokensoft/launchlists/compare to this repository with updated sale configuration including your sale.
-3. The sale will be accessible users once the pull request is approved by the maintainers of this repo.
-4. To update this configuration once the sale is visible, create another pull request.
+2. Fork this repository and edit /prod/sales_index.json (for production) or /staging/sales_index.json (for testing).
+3. Add your sale configuration to the JSON file by copying one of the existing sale segments. Commit this change to your repository.
+4. Open pull request to from your fork to our main branch. Contact the Tokensoft to get this reviewed and merged.
+5. The sale will be accessible users once the pull request is approved by the maintainers of this repo.
+6. To update this configuration once the sale is visible, create another pull request.
 
 ## Setup
 On Github:
