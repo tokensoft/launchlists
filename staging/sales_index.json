@@ -1,7 +1,7 @@
 
 [
   {
-      "chainId": 1,
+      "chainId": 3,
       "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
       "saleId": "0x81c02c427b98a54aa297b164f192706eeeae051fbdeb8afcd083768701fbd96d",
       "saleName": "PenJ Softernet Sale",
