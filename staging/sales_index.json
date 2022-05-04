@@ -1,5 +1,78 @@
+
 [
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x7f1d7720c6fba223158981b82f0d9914547e2c1323a1834359015bdf2b5f7143",
+      "saleName": "Danylo (DNL)",
+      "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+      "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "Danylo (DNL) Public Sale",
+      "access": {
+        "limitToRegions": ["US", "GB", "CA"]
+      },
+      "socials": {
+        "twitter": "https://twitter.com/CryptoField3",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/tokensoft"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+      "saleId": "0x81c02c427b98a54aa297b164f192706eeeae051fbdeb8afcd083768701fbd96d",
+      "saleName": "PenJ Softernet Sale",
+      "logo": "https://github.com/penj13/launchlists/blob/patch-1/Bitcoin-Logo.png?raw=true",
+      "favicon": "https://github.com/penj13/launchlists/blob/main/penj13.png?raw=true",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "PenJ Softernet Sale is Good",
+      "access": {
+        "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA"]      },
+      "socials": {
+        "twitter": "https://twitter.com/https://twitter.com/alex_savchik",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/follow2themoon"
+      },
+      "documents": [
+        {
+          "name": "Softernet Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+        }
+      ]
+  },
+  
    {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xe02efc9e817e2124f88c6cd5a4e5af615460119b55a7b3ef6a1bb4ce1ea11d63",
+      "saleName": "DIKIy",
+      "logo": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
+      "favicon": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
+      "projectWebsite": "https://dikiy.com",
+      "saleDescription": "DIKIy to the Mars",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/dimapolipol",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/InShariaGroup"
+      },
+      "documents": [
+        {
+          "name": "Softernet Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+        }
+      ]
+    },
+    {
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
@@ -244,7 +317,7 @@
       }
     ]
   },
-   {
+  {
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xa381a6e0030b213ed7c6d0b374471390861d7807fc73b3f8e7ad567672a99ca8",
@@ -260,6 +333,31 @@
         "twitter": "https://twitter.com/Evgenius50",
         "discord": "https://discord.gg/kosoga#1978>",
         "telegram": "https://t.me/kosoga"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x9f1db8c353b68a6484e2d26a9810c298c5a3b64c21e952b747bac9901d0e646e",
+      "saleName": "test-3 (Kir)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png",
+      "projectWebsite": "https://app.stagetokensoft.com/sale/",
+      "saleDescription": "Test-3 by Kir Os.",
+      "access": {
+        "limitToRegions": ["US", "GB", "CA"]
+      },
+      "socials": {
+        "twitter": "https://twitter.com/TokensoftInc",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/tokensoft"
       },
       "documents": [
         {
