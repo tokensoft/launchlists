@@ -18,9 +18,8 @@
       },
       "documents": [
         {
-          "name": "Purchase Agreement",
-          "uri": "https://randstorageprod.blob.core.windows.net/sale/SAFT%20Rand%20Presale%202%20Angels%20(TokenSoft).docx-2.pdf",
-          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+          "name": "Softernet Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
         }
       ]
   },
