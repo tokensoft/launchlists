@@ -1,6 +1,6 @@
 [
      {
-      "chainId": 1,
+      "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0x9f1db8c353b68a6484e2d26a9810c298c5a3b64c21e952b747bac9901d0e646e",
       "saleName": "test-3 (Kir)",
