@@ -15,6 +15,24 @@
         "discord": "https://discord.gg/tokensoft",
         "telegram": "https://t.me/InShariaGroup"
       },
+      "documents": []
+    },
+    {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
+      "saleName": "Softernet",
+      "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+      "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "Tokensoft Softernet Testnet",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/TokensoftInc",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/tokensoft"
+      },
       "documents": [
         {
           "name": "Softernet Test Plan",
