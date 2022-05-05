@@ -1,4 +1,3 @@
-
 [
   {
       "chainId": 3,
@@ -389,5 +388,28 @@
         }
       ]
   }
-]
-  
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x52d12379e10ea4ba64a4643eaad160a5aad1838bad6a10d9bcf9ac23a439ade6",
+      "saleName": "nikenikitos9(NIKE)",
+      "logo": "https://wampi.ru/image/RuaSyVV",
+      "favicon": "https://wampi.ru/image/Rual5Oz",
+      "projectWebsite": "https://twitter.com/Nikita08794843",
+      "saleDescription": "SALE example tokens nikenikitos9 for test",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/Nikita08794843",
+        "discord": "https://discord.gg/Nikenikitos9#6603",
+        "telegram": "https://t.me/NeKit787"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf"
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+] 
