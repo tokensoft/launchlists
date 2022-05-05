@@ -423,3 +423,28 @@
 		}]
 	}
 ]
+https://github.com/tokensoft/launchlists/blob/main/SALE_CONFIG.md
+[{
+		"chainId": 3,
+		"saleManagerAddress": "0x7f3DB8af806315531d7C14B35f4af1DF78F887E0",
+		"saleId": "0x95f98e572f06b28e9afd6702e727af7d75c8d4ff4fdfa7d8bc11fc3f923266a5",
+		"saleName": "Softernet (ppSoft)",
+		"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+		"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "Softernet (ppSoft) Public Sale",
+		"access": {
+			"limitToRegions": ["US", "GB", "CA"]
+		},
+		"socials": {
+			"twitter": "https://twitter.com/Sokzyy",
+			"discord": "https://discord.gg/tokensoft",
+			"telegram": "https://t.me/Sokzyy"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
