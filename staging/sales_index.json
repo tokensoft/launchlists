@@ -1,6 +1,6 @@
 [
   {
-      "chainId": 1,
+      "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xf380fc4d4cec3fc34ec1292cd8817e06708652f292cc4dc8131c08b73b3d8d80",
       "saleName": "Polka",
@@ -9,7 +9,8 @@
       "projectWebsite": "https://twitter.com/48Matveeva",
       "saleDescription": "Polka0101",
       "access": {
-        "limitToRegions": ["US", "GB", "CA"]
+        "limitToRegions": ["US", "GB", "CA"],
+	"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
       },
       "socials": {
         "twitter": "https://twitter.com/48Matveeva",
@@ -34,7 +35,8 @@
       "projectWebsite": "https://bi.group/ru/",
       "saleDescription": "Building a dream",
       "access": {
-              "limitToRegions": ["US", "GB", "CA"]
+              "limitToRegions": ["US", "GB", "CA"],
+		"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
       },
       "socials": {
               "twitter": "https://twitter.com/BIGroup_KZ",
@@ -56,7 +58,8 @@
 		"projectWebsite": "https://tokensoft.io",
 		"saleDescription": "Danylo (DNL) Public Sale",
 		"access": {
-			"limitToRegions": ["US", "GB", "CA"]
+			"limitToRegions": ["US", "GB", "CA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
 		},
 		"socials": {
 			"twitter": "https://twitter.com/CryptoField3",
@@ -365,7 +368,8 @@
 		"projectWebsite": "https://oboe.ex>",
 		"saleDescription": "Example description",
 		"access": {
-			"limitToRegions": ["US", "GB", "CA"]
+			"limitToRegions": ["US", "GB", "CA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
 		},
 		"socials": {
 			"twitter": "https://twitter.com/Evgenius50",
