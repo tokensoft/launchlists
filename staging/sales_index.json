@@ -46,7 +46,7 @@
         }
       ]
   },
-  {
+   {
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
@@ -68,8 +68,8 @@
           "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
         }
       ]
-  },
-  {
+    },
+    {
       "chainId": 3,
       "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
       "saleId": "0x71f26b1618db09d290f810c6960d7dfd989af24782e948721664ada36bcd3196",
@@ -290,5 +290,5 @@
         "uri": "https://example.com/document.pdf"
       }
     ]
-  },
-]
+  }
+]  
