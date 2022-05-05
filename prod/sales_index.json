@@ -1,5 +1,5 @@
 
-  },
+  ,
   {
       "chainId": 1,
       "saleManagerAddress": "0x380cf1D8e32fADfE0dfF8B1d4d2d25A025064091",
@@ -25,4 +25,4 @@
       ],
       "hidden": true
   }
-]
+
