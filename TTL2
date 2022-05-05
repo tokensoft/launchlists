@@ -1,0 +1,25 @@
+{
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xe41fddcaf7d5a293d2e07e43f99c81b5015abb3461d4b15b5cbb31ba8b66c5ca",
+      "saleName": "PiterFM",
+      "logo": "https://wampi.ru/image/RuaKC17",
+      "favicon": "https://wampi.ru/image/RuaKUvg",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "PiterFM",
+      "access": {
+        "limitToRegions": ["US", "GB", "CA", "UK"],
+      },
+      "socials": {
+        "twitter": "https://twitter.com/ns_genn",
+        "discord": "https://discord.gg/PiterFM#5693",
+        "telegram": "https://t.me/ns_genn"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
