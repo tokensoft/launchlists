@@ -25,6 +25,28 @@
       ]
   },
   {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xc92bf83c10267f6accacdc0258ec9bfaea5295412fb46782be734bd0dc1df015",
+      "saleName": "GeodezisTCoin (GTC)",
+      "logo": "https://commons.wikimedia.org/wiki/File:Met_DP-18191-041.jpg#/media/File:Met_DP-18191-041.jpg",
+      "favicon": "https://commons.wikimedia.org/wiki/File:Met_DP-18191-041.jpg#/media/File:Met_DP-18191-041.jpg",
+      "projectWebsite": "https://bi.group/ru/",
+      "saleDescription": "Building a dream",
+      "access": {
+              "limitToRegions": ["US", "GB", "CA"]
+      },
+      "socials": {
+              "twitter": "https://twitter.com/BIGroup_KZ",
+              "discord": "https://discord.gg/d3zkGxX2",
+              "telegram": "https://t.me/kairat_fc"
+      },
+      "documents": [{
+              "name": "TestNetSoft",
+              "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+      }]
+  },
+  {
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x7f1d7720c6fba223158981b82f0d9914547e2c1323a1834359015bdf2b5f7143",
