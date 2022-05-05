@@ -407,7 +407,7 @@
       "documents": [
         {
           "name": "Purchase Agreement",
-          "uri": "https://example.com/qtz.pdf"
+          "uri": "https://example.com/qtz.pdf",
           "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
         }
       ]
