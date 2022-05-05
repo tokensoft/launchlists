@@ -327,7 +327,7 @@
       "projectWebsite": "https://oboe.ex>",
       "saleDescription": "Example description",
       "access": {
-        "limitToRegions": ["US", "GB", "CA", "UK"],
+        "limitToRegions": ["US", "GB", "CA", "UK"]
       },
       "socials": {
         "twitter": "https://twitter.com/Evgenius50",
