@@ -421,10 +421,8 @@
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
-	}
-]
-https://github.com/tokensoft/launchlists/blob/main/SALE_CONFIG.md
-[{
+	},
+	{
 		"chainId": 3,
 		"saleManagerAddress": "0x7f3DB8af806315531d7C14B35f4af1DF78F887E0",
 		"saleId": "0x95f98e572f06b28e9afd6702e727af7d75c8d4ff4fdfa7d8bc11fc3f923266a5",
@@ -434,7 +432,8 @@ https://github.com/tokensoft/launchlists/blob/main/SALE_CONFIG.md
 		"projectWebsite": "https://tokensoft.io",
 		"saleDescription": "Softernet (ppSoft) Public Sale",
 		"access": {
-			"limitToRegions": ["US", "GB", "CA"]
+			"limitToRegions": ["US", "GB", "CA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
 		},
 		"socials": {
 			"twitter": "https://twitter.com/Sokzyy",
@@ -446,5 +445,5 @@ https://github.com/tokensoft/launchlists/blob/main/SALE_CONFIG.md
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
-	},
-	{
+	}
+]
