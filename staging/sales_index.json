@@ -17,7 +17,7 @@
                 },
                 "documents": [{
                         "name": "TestNetSoft",
-                        "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf",
+                        "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
                 }]
         },
         {
