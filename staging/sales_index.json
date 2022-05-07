@@ -1,528 +1,552 @@
 [{
-        "chainId": 3,
-      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-      "saleId": "0xe41fddcaf7d5a293d2e07e43f99c81b5015abb3461d4b15b5cbb31ba8b66c5ca",
-      "saleName": "PiterFM",
-      "logo": "https://wampi.ru/image/RuaKC17",
-      "favicon": "https://wampi.ru/image/RuaKUvg",
-      "projectWebsite": "https://tokensoft.io",
-      "saleDescription": "PiterFM",
-      "access": {
-        "limitToRegions": ["US", "GB", "CA"]
-      },
-      "socials": {
-        "twitter": "https://twitter.com/ns_genn",
-        "discord": "https://discord.gg/PiterFM#5693",
-        "telegram": "https://t.me/ns_genn"
-      },
-      "documents": [
-        {
-          "name": "Purchase Agreement",
-          "uri": "https://example.com/qtz.pdf",
-          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-        }
-      ]
+    "chainId": 3,
+  "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+  "saleId": "0xe41fddcaf7d5a293d2e07e43f99c81b5015abb3461d4b15b5cbb31ba8b66c5ca",
+  "saleName": "PiterFM",
+  "logo": "https://wampi.ru/image/RuaKC17",
+  "favicon": "https://wampi.ru/image/RuaKUvg",
+  "projectWebsite": "https://tokensoft.io",
+  "saleDescription": "PiterFM",
+  "access": {
+    "limitToRegions": ["US", "GB", "CA"]
   },
-  {
-      "chainId": 3,
-      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-      "saleId": "0xf380fc4d4cec3fc34ec1292cd8817e06708652f292cc4dc8131c08b73b3d8d80",
-      "saleName": "Polka",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Polka_dot.svg/800px-Polka_dot.svg.png",
-      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Polka_dot.svg/800px-Polka_dot.svg.png",
-      "projectWebsite": "https://twitter.com/48Matveeva",
-      "saleDescription": "Polka0101",
-      "access": {
+  "socials": {
+    "twitter": "https://twitter.com/ns_genn",
+    "discord": "https://discord.gg/PiterFM#5693",
+    "telegram": "https://t.me/ns_genn"
+  },
+  "documents": [
+    {
+      "name": "Purchase Agreement",
+      "uri": "https://example.com/qtz.pdf",
+      "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }
+  ]
+},
+{
+  "chainId": 3,
+  "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+  "saleId": "0xf380fc4d4cec3fc34ec1292cd8817e06708652f292cc4dc8131c08b73b3d8d80",
+  "saleName": "Polka",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Polka_dot.svg/800px-Polka_dot.svg.png",
+  "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Polka_dot.svg/800px-Polka_dot.svg.png",
+  "projectWebsite": "https://twitter.com/48Matveeva",
+  "saleDescription": "Polka0101",
+  "access": {
+    "limitToRegions": ["US", "GB", "CA"],
+      "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+  },
+  "socials": {
+    "twitter": "https://twitter.com/48Matveeva",
+    "discord": "https://discord.gg/polkadot0101#9769",
+    "telegram": "https://t.me/lnrchv"
+  },
+  "documents": [
+    {
+      "name": "Purchase Agreement",
+      "uri": "https://example.com/qtz.pdf",
+      "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }
+  ]
+},
+{
+  "chainId": 3,
+  "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+  "saleId": "0xc92bf83c10267f6accacdc0258ec9bfaea5295412fb46782be734bd0dc1df015",
+  "saleName": "GeodezisTCoin (GTC)",
+  "logo": "https://commons.wikimedia.org/wiki/File:Met_DP-18191-041.jpg#/media/File:Met_DP-18191-041.jpg",
+  "favicon": "https://commons.wikimedia.org/wiki/File:Met_DP-18191-041.jpg#/media/File:Met_DP-18191-041.jpg",
+  "projectWebsite": "https://bi.group/ru/",
+  "saleDescription": "Building a dream",
+  "access": {
+          "limitToRegions": ["US", "GB", "CA"],
+    "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+  },
+  "socials": {
+          "twitter": "https://twitter.com/BIGroup_KZ",
+          "discord": "https://discord.gg/d3zkGxX2",
+          "telegram": "https://t.me/kairat_fc"
+  },
+  "documents": [{
+          "name": "TestNetSoft",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+  }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x7f1d7720c6fba223158981b82f0d9914547e2c1323a1834359015bdf2b5f7143",
+    "saleName": "Danylo (DNL)",
+    "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+    "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+    "projectWebsite": "https://tokensoft.io",
+    "saleDescription": "Danylo (DNL) Public Sale",
+    "access": {
         "limitToRegions": ["US", "GB", "CA"],
-	      "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
-      },
-      "socials": {
-        "twitter": "https://twitter.com/48Matveeva",
-        "discord": "https://discord.gg/polkadot0101#9769",
-        "telegram": "https://t.me/lnrchv"
-      },
-      "documents": [
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/CryptoField3",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/tokensoft"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+    "saleId": "0x81c02c427b98a54aa297b164f192706eeeae051fbdeb8afcd083768701fbd96d",
+    "saleName": "PenJ Softernet Sale",
+    "logo": "https://github.com/penj13/launchlists/blob/patch-1/Bitcoin-Logo.png?raw=true",
+    "favicon": "https://github.com/penj13/launchlists/blob/main/penj13.png?raw=true",
+    "projectWebsite": "https://tokensoft.io",
+    "saleDescription": "PenJ Softernet Sale is Good",
+    "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmSb7SxyAF6SzdSVo9GGiSwaCufcw1tnnJhFjhk9UbijKD"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/https://twitter.com/alex_savchik",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/follow2themoon"
+    },
+    "documents": [{
+        "name": "Softernet Test Plan",
+        "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x0cfdcf06c53cee2ab8752998f4d6723c81b8114ecad5955ddefaa13c2735e12c",
+    "saleName": "ReginaArt",
+    "logo": "https://pbs.twimg.com/profile_images/1514774747921281027/oAAgTkv0_400x400.jpg",
+    "favicon": "https://pbs.twimg.com/profile_images/1514774747921281027/oAAgTkv0_400x400.jpg",
+    "projectWebsite": "https://twitter.com/ReginaArt_",
+    "saleDescription": "ReginaArt",
+    "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmSb7SxyAF6SzdSVo9GGiSwaCufcw1tnnJhFjhk9UbijKD"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/dimapolipol",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/InShariaGroup"
+    },
+    "documents": [{
+        "name": "Softernet Test Plan",
+        "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0xe02efc9e817e2124f88c6cd5a4e5af615460119b55a7b3ef6a1bb4ce1ea11d63",
+    "saleName": "DIKIy",
+    "logo": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
+    "favicon": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
+    "projectWebsite": "https://dikiy.com",
+    "saleDescription": "DIKIy to the Mars",
+    "access": {},
+    "socials": {
+        "twitter": "https://twitter.com/dimapolipol",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/InShariaGroup"
+    },
+    "documents": [{
+        "name": "Softernet Test Plan",
+        "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
+    "saleName": "Softernet",
+    "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+    "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+    "projectWebsite": "https://tokensoft.io",
+    "saleDescription": "Tokensoft Softernet Testnet",
+    "access": {},
+    "socials": {
+        "twitter": "https://twitter.com/ReginaArt_",
+        "discord": "https://discord.gg/ReginaArt#2987",
+        "telegram": "https://t.me/RArtemtsevat"
+    },
+    "documents": [{
+        "name": "0x66A6aaEE7E64A216C683DF9AF6cb502364C010a7",
+        "uri": "file:///C:/Users/Viktor/Downloads/0x66A6aaEE7E64A216C683DF9AF6cb502364C010a7.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0x71f26b1618db09d290f810c6960d7dfd989af24782e948721664ada36bcd3196",
+    "saleName": "DO YOU WANT TO BE RIGHT OR DO YOU WANT TO BE RICH",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+    "projectWebsite": "https://fundo.inthe.sundo",
+    "saleDescription": "The fundo sale for fundo salespeople who sell fundo to fundo sellers",
+    "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA", "US"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/Qma32iKHCqYFN7TCsR1SH7Mv1KKNvmQELY81i1j6Z4Qi5F"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/Motoma",
+        "telegram": "https://t.me/Motoma"
+    },
+    "documents": [{
+            "name": "Proof of fun",
+            "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+            "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        },
         {
-          "name": "Purchase Agreement",
-          "uri": "https://example.com/qtz.pdf",
-          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+            "name": "Proof of being rich",
+            "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+            "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        },
+        {
+            "name": "Proof of being right",
+            "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+            "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
         }
-      ]
-  },
-  {
-      "chainId": 3,
-      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-      "saleId": "0xc92bf83c10267f6accacdc0258ec9bfaea5295412fb46782be734bd0dc1df015",
-      "saleName": "GeodezisTCoin (GTC)",
-      "logo": "https://commons.wikimedia.org/wiki/File:Met_DP-18191-041.jpg#/media/File:Met_DP-18191-041.jpg",
-      "favicon": "https://commons.wikimedia.org/wiki/File:Met_DP-18191-041.jpg#/media/File:Met_DP-18191-041.jpg",
-      "projectWebsite": "https://bi.group/ru/",
-      "saleDescription": "Building a dream",
-      "access": {
-              "limitToRegions": ["US", "GB", "CA"],
-		"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
-      },
-      "socials": {
-              "twitter": "https://twitter.com/BIGroup_KZ",
-              "discord": "https://discord.gg/d3zkGxX2",
-              "telegram": "https://t.me/kairat_fc"
-      },
-      "documents": [{
-              "name": "TestNetSoft",
-              "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
-      }]
-  },
-  {
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x7f1d7720c6fba223158981b82f0d9914547e2c1323a1834359015bdf2b5f7143",
-		"saleName": "Danylo (DNL)",
-		"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-		"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-		"projectWebsite": "https://tokensoft.io",
-		"saleDescription": "Danylo (DNL) Public Sale",
-		"access": {
-			"limitToRegions": ["US", "GB", "CA"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/CryptoField3",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/tokensoft"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
-		"saleId": "0x81c02c427b98a54aa297b164f192706eeeae051fbdeb8afcd083768701fbd96d",
-		"saleName": "PenJ Softernet Sale",
-		"logo": "https://github.com/penj13/launchlists/blob/patch-1/Bitcoin-Logo.png?raw=true",
-		"favicon": "https://github.com/penj13/launchlists/blob/main/penj13.png?raw=true",
-		"projectWebsite": "https://tokensoft.io",
-		"saleDescription": "PenJ Softernet Sale is Good",
-		"access": {
-			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmSb7SxyAF6SzdSVo9GGiSwaCufcw1tnnJhFjhk9UbijKD"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/https://twitter.com/alex_savchik",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/follow2themoon"
-		},
-		"documents": [{
-			"name": "Softernet Test Plan",
-			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x0cfdcf06c53cee2ab8752998f4d6723c81b8114ecad5955ddefaa13c2735e12c",
-		"saleName": "ReginaArt",
-		"logo": "https://pbs.twimg.com/profile_images/1514774747921281027/oAAgTkv0_400x400.jpg",
-		"favicon": "https://pbs.twimg.com/profile_images/1514774747921281027/oAAgTkv0_400x400.jpg",
-		"projectWebsite": "https://twitter.com/ReginaArt_",
-		"saleDescription": "ReginaArt",
-		"access": {
-			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmSb7SxyAF6SzdSVo9GGiSwaCufcw1tnnJhFjhk9UbijKD"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/dimapolipol",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/InShariaGroup"
-		},
-		"documents": [{
-			"name": "Softernet Test Plan",
-			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0xe02efc9e817e2124f88c6cd5a4e5af615460119b55a7b3ef6a1bb4ce1ea11d63",
-		"saleName": "DIKIy",
-		"logo": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
-		"favicon": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/8/AmazonStores/ATVPDKIKX0DER/aa64112bf9f6502090454f5f572905df.w400.h400.jpg",
-		"projectWebsite": "https://dikiy.com",
-		"saleDescription": "DIKIy to the Mars",
-		"access": {},
-		"socials": {
-			"twitter": "https://twitter.com/dimapolipol",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/InShariaGroup"
-		},
-		"documents": [{
-			"name": "Softernet Test Plan",
-			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
-		"saleName": "Softernet",
-		"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-		"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-		"projectWebsite": "https://tokensoft.io",
-		"saleDescription": "Tokensoft Softernet Testnet",
-		"access": {},
-		"socials": {
-			"twitter": "https://twitter.com/ReginaArt_",
-			"discord": "https://discord.gg/ReginaArt#2987",
-			"telegram": "https://t.me/RArtemtsevat"
-		},
-		"documents": [{
-			"name": "0x66A6aaEE7E64A216C683DF9AF6cb502364C010a7",
-			"uri": "file:///C:/Users/Viktor/Downloads/0x66A6aaEE7E64A216C683DF9AF6cb502364C010a7.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
-		"saleId": "0x71f26b1618db09d290f810c6960d7dfd989af24782e948721664ada36bcd3196",
-		"saleName": "DO YOU WANT TO BE RIGHT OR DO YOU WANT TO BE RICH",
-		"logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-		"favicon": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-		"projectWebsite": "https://fundo.inthe.sundo",
-		"saleDescription": "The fundo sale for fundo salespeople who sell fundo to fundo sellers",
-		"access": {
-			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA", "US"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/Qma32iKHCqYFN7TCsR1SH7Mv1KKNvmQELY81i1j6Z4Qi5F"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/Motoma",
-			"telegram": "https://t.me/Motoma"
-		},
-		"documents": [{
-				"name": "Proof of fun",
-				"uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
-				"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-			},
-			{
-				"name": "Proof of being rich",
-				"uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
-				"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-			},
-			{
-				"name": "Proof of being right",
-				"uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
-				"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-			}
-		]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x6ae894051f6af4330b64c7898cc06e9c2f52d103ddcc37ec991fa6df00790aac",
-		"saleName": "Quetzalcoatl 2",
-		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
-		"saleDescription": "Quetzalcoatl Sale",
-		"access": {},
-		"socials": {
-			"twitter": "https://twitter.com/qtz",
-			"discord": "https://discord.gg/qtz",
-			"telegram": "https://t.me/qtz"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x2cf63c9a404bfa49907a249ba54d9975a1d0c138ca1da2f32566daefdecf6f49",
-		"saleName": "Quetzalcoatl",
-		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
-		"saleDescription": "Quetzalcoatl Sale",
-		"access": {},
-		"socials": {
-			"twitter": "https://twitter.com/qtz",
-			"discord": "https://discord.gg/qtz",
-			"telegram": "https://t.me/qtz"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x314fa309e345668dad4c0e18b20a31adf3faa32c9f23436add5c14ed430bf1a4",
-		"saleName": "Rand PreSale",
-		"logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
-		"favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
-		"projectWebsite": "https://rand.network",
-		"saleDescription": "Rand PreSale",
-		"access": {
-			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/Qma32iKHCqYFN7TCsR1SH7Mv1KKNvmQELY81i1j6Z4Qi5F"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/randnetwork",
-			"discord": "https://discord.gg/EW7uVPgGEu",
-			"telegram": "https://t.me/randnetwork"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
-		"saleId": "0xb2241f9abcdf8e34417ec6450a6915834125391126ffe09cf2f21b1dc71d08b1",
-		"saleName": "Rand Network",
-		"logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
-		"favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
-		"projectWebsite": "https://rand.network",
-		"saleDescription": "Rand Test Public Sale",
-		"access": {
-			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA", "US"],
-			"merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/randnetwork",
-			"discord": "https://discord.gg/EW7uVPgGEu",
-			"telegram": "https://t.me/randnetwork"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
-		"saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
-		"saleName": "Fayre",
-		"hidden": false,
-		"purchaseDocumentsGenerated": false,
-		"logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
-		"favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
-		"projectWebsite": "https://www.fayre.com/",
-		"saleDescription": "Add FAYRE to your portfolio by participating in the Private Sale. Powered by Tokensoft.",
-		"access": {},
-		"socials": {
-			"twitter": "https://twitter.com/FayreLabs",
-			"telegram": "https://t.me/Fayre"
-		},
-		"documents": [{
-			"name": "Example Document",
-			"uri": "https://example.com/document.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x3fb5c4fa3362d2056d9558f597602912b5c1bf3a91887532ff36e21a59cd71a3",
-		"saleName": "ABL Test Sale",
-		"hidden": false,
-		"purchaseDocumentsGenerated": false,
-		"logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
-		"favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
-		"projectWebsite": "https://example.com",
-		"saleDescription": "Example description",
-		"access": {
+    ]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x6ae894051f6af4330b64c7898cc06e9c2f52d103ddcc37ec991fa6df00790aac",
+    "saleName": "Quetzalcoatl 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+    "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+    "saleDescription": "Quetzalcoatl Sale",
+    "access": {},
+    "socials": {
+        "twitter": "https://twitter.com/qtz",
+        "discord": "https://discord.gg/qtz",
+        "telegram": "https://t.me/qtz"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x2cf63c9a404bfa49907a249ba54d9975a1d0c138ca1da2f32566daefdecf6f49",
+    "saleName": "Quetzalcoatl",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+    "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+    "saleDescription": "Quetzalcoatl Sale",
+    "access": {},
+    "socials": {
+        "twitter": "https://twitter.com/qtz",
+        "discord": "https://discord.gg/qtz",
+        "telegram": "https://t.me/qtz"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x314fa309e345668dad4c0e18b20a31adf3faa32c9f23436add5c14ed430bf1a4",
+    "saleName": "Rand PreSale",
+    "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
+    "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
+    "projectWebsite": "https://rand.network",
+    "saleDescription": "Rand PreSale",
+    "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/Qma32iKHCqYFN7TCsR1SH7Mv1KKNvmQELY81i1j6Z4Qi5F"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/randnetwork",
+        "discord": "https://discord.gg/EW7uVPgGEu",
+        "telegram": "https://t.me/randnetwork"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0xb2241f9abcdf8e34417ec6450a6915834125391126ffe09cf2f21b1dc71d08b1",
+    "saleName": "Rand Network",
+    "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
+    "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
+    "projectWebsite": "https://rand.network",
+    "saleDescription": "Rand Test Public Sale",
+    "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA", "US"],
+        "merkleProofs": "https://cloudflare-ipfs.com/ipfs/QmdCMc7WujuSGfUf7V7WSQYiATejT33htzR6KcpTXBuqay"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/randnetwork",
+        "discord": "https://discord.gg/EW7uVPgGEu",
+        "telegram": "https://t.me/randnetwork"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/SAFT%20Rand%20Presale%202.docx.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
+    "saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
+    "saleName": "Fayre",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
+    "projectWebsite": "https://www.fayre.com/",
+    "saleDescription": "Add FAYRE to your portfolio by participating in the Private Sale. Powered by Tokensoft.",
+    "access": {},
+    "socials": {
+        "twitter": "https://twitter.com/FayreLabs",
+        "telegram": "https://t.me/Fayre"
+    },
+    "documents": [{
+        "name": "Example Document",
+        "uri": "https://example.com/document.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x3fb5c4fa3362d2056d9558f597602912b5c1bf3a91887532ff36e21a59cd71a3",
+    "saleName": "ABL Test Sale",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+    "projectWebsite": "https://example.com",
+    "saleDescription": "Example description",
+    "access": {
 
-		},
-		"socials": {
-			"twitter": "https://twitter.com/tokensoftinc",
-			"discord": "https://www.discord.gg/",
-			"telegram": "https://t.me/hi"
-		},
-		"documents": [{
-				"name": "SAFT",
-				"uri": "https://example.com/saft.pdf",
-				"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-			},
-			{
-				"name": "Disclosures",
-				"uri": "https://example.com/disclosures.pdf"
-			},
-			{
-				"name": "Terms",
-				"uri": "https://example.com/terms.pdf"
-			},
-			{
-				"name": "Privacy Policy",
-				"uri": "https://example.com/privacy.pdf"
-			}
-		]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x583e17384ca49a7208a07bd31e2ddc8c01d5ad037ec4c32181f16db2c5496fb5",
-		"saleName": "Randall's Public Sale",
-		"hidden": false,
-		"purchaseDocumentsGenerated": false,
-		"logo": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
-		"favicon": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
-		"projectWebsite": "https://example.com",
-		"saleDescription": "Example description",
-		"access": {},
-		"socials": {
-			"twitter": "https://twitter.com/elfinkingdom",
-			"telegram": "https://t.me/ElfinKDM"
-		},
-		"documents": [{
-			"name": "Example Document",
-			"uri": "https://example.com/document.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0xa381a6e0030b213ed7c6d0b374471390861d7807fc73b3f8e7ad567672a99ca8",
-		"saleName": "oboe",
-		"logo": "https://pbs.twimg.com/media/FR8t8bMXEAMTDoe?format=jpg&name=medium",
-		"favicon": "https://pbs.twimg.com/media/FR8t8bMXEAMTDoe?format=jpg&name=medium",
-		"projectWebsite": "https://oboe.ex>",
-		"saleDescription": "Example description",
-		"access": {
-			"limitToRegions": ["US", "GB", "CA"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/Evgenius50",
-			"discord": "https://discord.gg/kosoga#1978>",
-			"telegram": "https://t.me/kosoga"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x9f1db8c353b68a6484e2d26a9810c298c5a3b64c21e952b747bac9901d0e646e",
-		"saleName": "test-3 (Kir)",
-		"logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png",
-		"favicon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png",
-		"projectWebsite": "https://app.stagetokensoft.com/sale/",
-		"saleDescription": "Test-3 by Kir Os.",
-		"access": {
-			"limitToRegions": ["US", "GB", "CA"]
-		},
-		"socials": {
-			"twitter": "https://twitter.com/TokensoftInc",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/tokensoft"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x52d12379e10ea4ba64a4643eaad160a5aad1838bad6a10d9bcf9ac23a439ade6",
-		"saleName": "nikenikitos9(NIKE)",
-		"logo": "https://wampi.ru/image/RuaSyVV",
-		"favicon": "https://wampi.ru/image/Rual5Oz",
-		"projectWebsite": "https://twitter.com/Nikita08794843",
-		"saleDescription": "SALE example tokens nikenikitos9 for test",
-		"access": {},
-		"socials": {
-			"twitter": "https://twitter.com/Nikita08794843",
-			"discord": "https://discord.gg/Nikenikitos9#6603",
-			"telegram": "https://t.me/NeKit787"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-  {
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x9a30d083eac7a2d7c0e40ddb0a7b675f7aabc2ded913596c50bdb7210b5acc5c",
-		"saleName": "Olga_Kat",
-		"logo": "https://coolsen.ru/wp-content/uploads/2021/10/168-20211027_200135.png",
-		"favicon": "https://coolsen.ru/wp-content/uploads/2021/10/168-20211027_200135.png",
-		"projectWebsite": "https://olgaKat.com",
-		"saleDescription": "OlgaKat Public Sale",
-		"access": {
-			"limitToRegions": ["US", "GB", "CA"]
-		},
-		"socials": {
-			"twitter": "https://twitter.com/TokensoftInc",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/tokensoft"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x95f98e572f06b28e9afd6702e727af7d75c8d4ff4fdfa7d8bc11fc3f923266a5",
-		"saleName": "Softernet (ppSoft)",
-		"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-		"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
-		"projectWebsite": "https://tokensoft.io",
-		"saleDescription": "Softernet (ppSoft) Public Sale",
-		"access": {
-			"limitToRegions": ["US", "GB", "CA"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/Sokzyy",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/Sokzyy"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	},
-	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x210c67da123eb90f38527d513232b6699ae12de5e5836a60bc92272535a136d4",
-		"saleName": "ToTheMoonTokenSoft (TTMTS)",
-		"logo": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
-		"favicon": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
-		"projectWebsite": "https://tokensoft.io",
-		"saleDescription": "community token",
-		"access": {
-			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
-		},
-		"socials": {
-			"twitter": "https://twitter.com/bitdealer91",
-			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/cryptorussianbears"
-		},
-		"documents": [{
-			"name": "Purchase Agreement",
-			"uri": "https://example.com/qtz.pdf",
-			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-		}]
-	}
+    },
+    "socials": {
+        "twitter": "https://twitter.com/tokensoftinc",
+        "discord": "https://www.discord.gg/",
+        "telegram": "https://t.me/hi"
+    },
+    "documents": [{
+            "name": "SAFT",
+            "uri": "https://example.com/saft.pdf",
+            "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        },
+        {
+            "name": "Disclosures",
+            "uri": "https://example.com/disclosures.pdf"
+        },
+        {
+            "name": "Terms",
+            "uri": "https://example.com/terms.pdf"
+        },
+        {
+            "name": "Privacy Policy",
+            "uri": "https://example.com/privacy.pdf"
+        }
+    ]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x583e17384ca49a7208a07bd31e2ddc8c01d5ad037ec4c32181f16db2c5496fb5",
+    "saleName": "Randall's Public Sale",
+    "hidden": false,
+    "purchaseDocumentsGenerated": false,
+    "logo": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+    "favicon": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+    "projectWebsite": "https://example.com",
+    "saleDescription": "Example description",
+    "access": {},
+    "socials": {
+        "twitter": "https://twitter.com/elfinkingdom",
+        "telegram": "https://t.me/ElfinKDM"
+    },
+    "documents": [{
+        "name": "Example Document",
+        "uri": "https://example.com/document.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0xa381a6e0030b213ed7c6d0b374471390861d7807fc73b3f8e7ad567672a99ca8",
+    "saleName": "oboe",
+    "logo": "https://pbs.twimg.com/media/FR8t8bMXEAMTDoe?format=jpg&name=medium",
+    "favicon": "https://pbs.twimg.com/media/FR8t8bMXEAMTDoe?format=jpg&name=medium",
+    "projectWebsite": "https://oboe.ex>",
+    "saleDescription": "Example description",
+    "access": {
+        "limitToRegions": ["US", "GB", "CA"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/Evgenius50",
+        "discord": "https://discord.gg/kosoga#1978>",
+        "telegram": "https://t.me/kosoga"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x9f1db8c353b68a6484e2d26a9810c298c5a3b64c21e952b747bac9901d0e646e",
+    "saleName": "test-3 (Kir)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo-Test.png",
+    "projectWebsite": "https://app.stagetokensoft.com/sale/",
+    "saleDescription": "Test-3 by Kir Os.",
+    "access": {
+        "limitToRegions": ["US", "GB", "CA"]
+    },
+    "socials": {
+        "twitter": "https://twitter.com/TokensoftInc",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/tokensoft"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x52d12379e10ea4ba64a4643eaad160a5aad1838bad6a10d9bcf9ac23a439ade6",
+    "saleName": "nikenikitos9(NIKE)",
+    "logo": "https://wampi.ru/image/RuaSyVV",
+    "favicon": "https://wampi.ru/image/Rual5Oz",
+    "projectWebsite": "https://twitter.com/Nikita08794843",
+    "saleDescription": "SALE example tokens nikenikitos9 for test",
+    "access": {},
+    "socials": {
+        "twitter": "https://twitter.com/Nikita08794843",
+        "discord": "https://discord.gg/Nikenikitos9#6603",
+        "telegram": "https://t.me/NeKit787"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x9a30d083eac7a2d7c0e40ddb0a7b675f7aabc2ded913596c50bdb7210b5acc5c",
+    "saleName": "Olga_Kat",
+    "logo": "https://coolsen.ru/wp-content/uploads/2021/10/168-20211027_200135.png",
+    "favicon": "https://coolsen.ru/wp-content/uploads/2021/10/168-20211027_200135.png",
+    "projectWebsite": "https://olgaKat.com",
+    "saleDescription": "OlgaKat Public Sale",
+    "access": {
+        "limitToRegions": ["US", "GB", "CA"]
+    },
+    "socials": {
+        "twitter": "https://twitter.com/TokensoftInc",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/tokensoft"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x95f98e572f06b28e9afd6702e727af7d75c8d4ff4fdfa7d8bc11fc3f923266a5",
+    "saleName": "Softernet (ppSoft)",
+    "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+    "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+    "projectWebsite": "https://tokensoft.io",
+    "saleDescription": "Softernet (ppSoft) Public Sale",
+    "access": {
+        "limitToRegions": ["US", "GB", "CA"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/Sokzyy",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/Sokzyy"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+    "saleId": "0x210c67da123eb90f38527d513232b6699ae12de5e5836a60bc92272535a136d4",
+    "saleName": "ToTheMoonTokenSoft (TTMTS)",
+    "logo": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
+    "favicon": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
+    "projectWebsite": "https://tokensoft.io",
+    "saleDescription": "community token",
+    "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/bitdealer91",
+        "discord": "https://discord.gg/tokensoft",
+        "telegram": "https://t.me/cryptorussianbears"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://example.com/qtz.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+},
+{
+    "chainId": 3,
+    "saleManagerAddress": "0xF9CbA6Cd2ceB86cAb75520d307c57EB0d10ca069",
+    "saleId": "0x6c3818b401c1fb792486c62913f90d2e3b89dbac05984fa6ab1b77422281abbf",
+    "saleName": "ErroristPrivate",
+    "logo": "https://testnet.run/images/logo.png",
+    "favicon": "https://testnet.run/storage/fav/favicon-32x32.png",
+    "projectWebsite": "https://testnet.run",
+    "saleDescription": "Dao token",
+    "access": {
+        "limitToRegions": ["AL", "UA"],
+        "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+    },
+    "socials": {
+        "twitter": "https://twitter.com/testnetrun",
+        "discord": "https://discord.gg/#",
+        "telegram": "https://t.me/testnetrun"
+    },
+    "documents": [{
+        "name": "Purchase Agreement",
+        "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf",
+        "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+    }]
+}
 ]
