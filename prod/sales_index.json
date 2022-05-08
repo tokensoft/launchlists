@@ -47,5 +47,31 @@
         }
       ],
       "hidden": true
+  },
+  {
+      "chainId": 3,
+      "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+      "saleId": "0xd3a196d032d19a129c2facd04f4d39182d480786d6823cf7eef1c797e159483c",
+      "saleName": "Tran Thanh Truc",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+      "saleDescription": "Tran Thanh Truc Sale",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/tttrucnh",
+        "discord": "https://discord.gg/tttrucnh",
+        "telegram": "https://t.me/tttrucnh"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ],
+      "hidden": true
   }
+  
 ]
