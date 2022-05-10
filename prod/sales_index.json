@@ -1,5 +1,4 @@
-[
-  {
+[{
       "chainId": 3,
       "saleManagerAddress": "0x98653a0c747f3E5D3FCF544CCF540c1b18c648D9",
       "saleId": "0x0683bfa2494ef80c9bddb5a1fb741c0f8e35930d75cd85acff44cac29d318014",
@@ -20,7 +19,7 @@
           "name": "Purchase Agreement",
           "uri": "https://randstorageprod.blob.core.windows.net/sale/SAFT%20Rand%20Presale%202%20Angels%20(TokenSoft).docx-2.pdf",
           "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-        }
-      ]
+        }]
   }
+      
 ]
