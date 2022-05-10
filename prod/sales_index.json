@@ -2,6 +2,32 @@
   {
     "chainId": 1,
     "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+    "saleId": "0x84313dd44c1300988ba8d14b6b8c2d84321f7e1cb769a65476bf66ef4686ad61",
+    "saleName": "King token",
+    "logo": "https://storage.arcdex.io/images/arc-logo.png",
+    "favicon": "https://storage.arcdex.io/images/arc-favicon.png",
+    "projectWebsite": "https://arcdex.io",
+    "saleDescription": "King token",
+    "access": {
+      "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CA","SS","UA"],
+      "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmbBkzjp95UAMqEzuinjA2ejag4tZ48QzEC7FxJPM416dG"
+    },
+    "socials": {
+      "twitter": "https://twitter.com/Arc__Finance",
+      "discord": "https://discord.gg/wbe6B4GrPv",
+      "telegram": "https://t.me/ArcFinance_global"
+    },
+    "documents": [
+      {
+        "name": "Purchase Agreement",
+        "uri": "https://storage.arcdex.io/doc/Arc Finance SAFT.pdf",
+        "appendSignaturePageUri": "https://storage.arcdex.io/doc/Arc Finance SAFT.pdf"
+      }
+    ]
+  },
+  {
+    "chainId": 1,
+    "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
     "saleId": "0x7c24c606f97396b7073e52623b850227a4a148bcb7f5315ee9fa40fc3674c3a2",
     "saleName": "ARC Public Sale",
     "logo": "https://storage.arcdex.io/images/arc-logo.png",
