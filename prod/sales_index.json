@@ -73,5 +73,30 @@
         }
       ],
       "hidden": true
+  },
+  {
+      "chainId": 1,
+      "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+      "saleId": "0x076e547a7f500faec9d7c4350d94233243cdbd3f900224a36668b34491d54b20",
+      "saleName": "SVG",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SVG_logo.svg/100px-SVG_logo.svg.png",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SVG_logo.svg/100px-SVG_logo.svg.png",
+      "projectWebsite": "https://pl.wikipedia.org/wiki/Scalable_Vector_Graphics",
+      "saleDescription": "SVG",
+      "access": {
+      },
+      "socials": {
+        "twitter": "https://twitter.com/mi",
+        "discord": "https://discord.gg/mi",
+        "telegram": "https://t.me/mi"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/mi.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/mi.pdf"
+        }
+      ],
+      "hidden": true
   }
 ]
