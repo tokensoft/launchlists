@@ -548,5 +548,29 @@
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
+	},
+ {
+		"chainId": 3,
+		"saleManagerAddress": "0x1ea478C2d53917f803Cb9914b0B230aD06800064",
+		"saleId": "0xe811ad04d2e6007b3e1bbddada85fe6d3e3171183ef3b024e9132bac6b83e409",
+		"saleName": "BRBZ Public Sale",
+		"logo": "https://i.ibb.co/ZVPckq3/300-300.jpg",
+		"favicon": "https://i.ibb.co/ZVPckq3/300-300.jpg",
+		"projectWebsite": "https://github.com/liolikus",
+		"saleDescription": "AGRRGGHHH!!!",
+		"access": {
+			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+			"merkleProofs": "none"
+		},
+		"socials": {
+			"twitter": "https://twitter.com/the_liolik",
+			"discord": "https://twitter.com/the_liolik",
+			"telegram": "https://twitter.com/the_liolik"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://i.guim.co.uk/img/media/36f79572fa1be7d95b3d88fa12332fd79a8551a4/0_73_4708_2825/master/4708.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=8b575684418f4e6182781dc6297daad7",
+			"appendSignaturePageUri": "https://i.guim.co.uk/img/media/36f79572fa1be7d95b3d88fa12332fd79a8551a4/0_73_4708_2825/master/4708.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=8b575684418f4e6182781dc6297daad7"
+		}]
 	}
 ]
