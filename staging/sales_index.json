@@ -548,5 +548,29 @@
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
-	}
-]
+	},
+        {
+		"chainId": 3,
+		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+		"saleId": "0x9b6b5a6bc8ced5a2a6bbd4c4f41b8808f4f3e7365a94fd71fb92c8d0e3cb2be7",
+		"saleName": "is_at (isat)",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Moon_95.png",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/4/48/Moon_95.png",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "community token for enthusiasts",
+		"access": {
+			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+		},
+		"socials": {
+			"twitter": "https://twitter.com/laram_at",
+			"discord": "https://discord.gg/tokensoft",
+			"telegram": "https://t.me/russiatokensoft"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	} 
+]       
