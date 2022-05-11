@@ -528,20 +528,20 @@
 	{
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x210c67da123eb90f38527d513232b6699ae12de5e5836a60bc92272535a136d4",
-		"saleName": "ToTheMoonTokenSoft (TTMTS)",
-		"logo": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
-		"favicon": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
+		"saleId": "0xfe9a6c25c7839c26ef6b16165289a8de3ebdaaf8785a5f9989879ef1c6cb2edd",
+		"saleName": "testtoken (ttok)",
+		"logo": "https://ibb.co/GHsTsRK",
+		"favicon": "https://ibb.co/GHsTsRK",
 		"projectWebsite": "https://tokensoft.io",
-		"saleDescription": "community token",
+		"saleDescription": "Test Token Private Sale",
 		"access": {
 			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
 			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
 		},
 		"socials": {
-			"twitter": "https://twitter.com/bitdealer91",
+			"twitter": "https://twitter.com/zartzurtbros",
 			"discord": "https://discord.gg/tokensoft",
-			"telegram": "https://t.me/cryptorussianbears"
+			"telegram": "https://t.me/zartzurtbros"
 		},
 		"documents": [{
 			"name": "Purchase Agreement",
