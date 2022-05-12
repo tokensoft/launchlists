@@ -1,6 +1,6 @@
 [
   {
-    "chainId": 1,
+    "chainId": 3,
     "saleManagerAddress": "0x801C10EE0A54a6AF2623CA459D0a374368221b96",
     "saleId": "0x156ba12383b51d27bbf404844d500b50fb3935bdbdc8fb1779c41cb37462d233",
     "saleName": "Ekmek Public Sale",
