@@ -1,4 +1,23 @@
-[{
+[
+	{
+      "chainId": 43114,
+      "saleManagerAddress": "",
+      "saleId": "8ef5957dcf913a4759cd61a818fe391543292a3e98d203ca7f765da0ade14ea7",
+      "saleName": "Terra Commemorative Event",
+      "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/terra-luna-luna-logo.svg",
+      "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/terra-luna-luna-logo.svg",
+      "projectWebsite": "https://terra.money",
+      "saleDescription": "Stop. stop. It's dead already.",
+      "access": {},
+      "socials": {},
+      "documents": [
+        {
+          "name": "Terra Whitepaper",
+          "uri": "https://assets.website-files.com/611153e7af981472d8da199c/618b02d13e938ae1f8ad1e45_Terra_White_paper.pdf"
+        }
+      ]
+  },
+  {
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0x0b356c38e10480449acbf3ff5044972e9d6d145a6a2124db5c917520cfac7c4c",
