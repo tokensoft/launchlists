@@ -1,19 +1,19 @@
 [{
         "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-      "saleId": "0xe41fddcaf7d5a293d2e07e43f99c81b5015abb3461d4b15b5cbb31ba8b66c5ca",
-      "saleName": "PiterFM",
-      "logo": "https://wampi.ru/image/RuaKC17",
-      "favicon": "https://wampi.ru/image/RuaKUvg",
+      "saleId": "0x6fccc30fa0a4f0aca5f287da89fc81a1036bfaf49fb64c276f9bd7fca0285787",
+      "saleName": "SoftNick $SNK",
+      "logo": "https://i.ibb.co/R2F16NM/pic.jpg",
+      "favicon": "https://i.ibb.co/R2F16NM/pic.jpg",
       "projectWebsite": "https://tokensoft.io",
-      "saleDescription": "PiterFM",
+	  "saleDescription": "SNK is token for an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future",
       "access": {
         "limitToRegions": ["US", "GB", "CA"]
       },
       "socials": {
-        "twitter": "https://twitter.com/ns_genn",
-        "discord": "https://discord.gg/PiterFM#5693",
-        "telegram": "https://t.me/ns_genn"
+        "twitter": "https://twitter.com/nickkauffmann",
+        "discord": "https://discord.gg/NickKauffmann#7777",
+        "telegram": "https://t.me/nickkauffmann"
       },
       "documents": [
         {
