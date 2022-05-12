@@ -1,76 +1,31 @@
-[
-  {
-    "chainId": 1,
-    "saleManagerAddress": "0xA20089Baf828CC5Fb3d558812Fb7d376AD827211",
-    "saleId": "0x6fccc30fa0a4f0aca5f287da89fc81a1036bfaf49fb64c276f9bd7fca0285787",
-    "saleName": "SoftNick $SNK",
-    "logo": "https://i.ibb.co/R2F16NM/pic.jpg",
-    "favicon": "https://i.ibb.co/fv3z4xD/favicon-32x32.png",
-    "projectWebsite": "https://app.stagetokensoft.com/sale/0x6fccc30fa0a4f0aca5f287da89fc81a1036bfaf49fb64c276f9bd7fca0285787",
-    "saleDescription": "SNK is token for an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future.",
-    "access": {
-      "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CA","SS","UA"]
-    },
-    "socials": {
-      "twitter": "https://twitter.com/nickkauffmann",
-      "discord": "https://discord.gg/PRFbrEx4Zy",
-      "telegram": "https://t.me/nickkauffmann"
-    },
-    "documents": [
-      {
-        "name": "Purchase Agreement",
-        "uri": "https://storage.arcdex.io/doc/Arc Finance SAFT.pdf",
-        "appendSignaturePageUri": "https://storage.arcdex.io/doc/Arc Finance SAFT.pdf"
-      }
-    ]
+[{
+  "chainId": 31337,
+  "saleManagerAddress": "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0",
+  "saleId": "0x6fccc30fa0a4f0aca5f287da89fc81a1036bfaf49fb64c276f9bd7fca0285787",
+  "saleName": "SoftNick $SNK",
+  "logo": "https://i.ibb.co/R2F16NM/pic.jpg",
+  "favicon": "https://i.ibb.co/R2F16NM/pic.jpg",
+  "projectWebsite": "https://tokensoft.io",
+  "hidden": false,
+  "purchaseDocumentsGenerated": false,
+  "saleDescription": "SNK is token for an ever-expanding ecosystem of interconnected apps and services, built for a decentralized future",
+  "socials": {
+    "twitter": "https://twitter.com/nickkauffmann"
   },
-  {
-      "chainId": 1,
-      "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
-      "saleId": "0x9ba1d4803aea6509a6f44430227962415235f6a8be5d6ae1601ab521fee5f0f4",
-      "saleName": "Rand PreSale",
-      "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overlight-2%20%282%29.png",
-      "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/RAND-visual%20identity-2022_logo-overdark-indigo-1%20%281%29.png",
-      "projectWebsite": "https://rand.network",
-      "saleDescription": "Rand PreSale",
-      "access": {
-        "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA"]      },
-      "socials": {
-        "twitter": "https://twitter.com/randnetwork",
-        "discord": "https://discord.gg/EW7uVPgGEu",
-        "telegram": "https://t.me/randnetwork"
-      },
-      "documents": [
-        {
-          "name": "Purchase Agreement",
-          "uri": "https://randstorageprod.blob.core.windows.net/sale/SAFT%20Rand%20Presale%202%20Angels%20(TokenSoft).docx-2.pdf",
-          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-        }
-      ]
-  },
-  {
-      "chainId": 1,
-      "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
-      "saleId": "0x076e547a7f500faec9d7c4350d94233243cdbd3f900224a36668b34491d54b20",
-      "saleName": "Quetzalcoatl",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-      "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
-      "projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
-      "saleDescription": "Quetzalcoatl Sale",
-      "access": {
-      },
-      "socials": {
-        "twitter": "https://twitter.com/qtz",
-        "discord": "https://discord.gg/qtz",
-        "telegram": "https://t.me/qtz"
-      },
-      "documents": [
-        {
-          "name": "Purchase Agreement",
-          "uri": "https://example.com/qtz.pdf",
-          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
-        }
-      ],
-      "hidden": true
+  "documents": [{
+    "name": "Terms and Conditions",
+    "uri": "https://example.com/terms.pdf"
+  }, {
+    "name": "Privacy Policy",
+    "uri": "https://example.com/privacy.pdf"
+  }, {
+    "name": "Purchase Agreement",
+    "uri": "https://example.com/purchase.pdf",
+    "appendSignaturePageUri": "https://example.com/purchase_countersigned_template.pdf"
+  }],
+  "access": {
+    "limitToRegions": ["US", "CA", "CH"],
+    "limitToAddresses": ["0x3cfa1411e0243c23486e7d966f46ee2d1d2a28fa", "0xd9c556ef2cd9a7066d6c35c5505cac8d4bd4223d"],
+    "merkleProofs": "https://gateway.pinata.cloud/ipfs/QmNYPPSXpNi83vdUBYL7DcgVZjRVxodUG6GcZR5LzGGc4M"
   }
-]
+}]
