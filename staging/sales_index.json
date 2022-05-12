@@ -1,7 +1,7 @@
 [
 	{
       "chainId": 43114,
-      "saleManagerAddress": "",
+      "saleManagerAddress": "0xa82d7ed01c31dd2a46681d18e3e213c9e9231605",
       "saleId": "8ef5957dcf913a4759cd61a818fe391543292a3e98d203ca7f765da0ade14ea7",
       "saleName": "Terra Commemorative Event",
       "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/terra-luna-luna-logo.svg",
