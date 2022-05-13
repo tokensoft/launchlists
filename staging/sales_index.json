@@ -592,3 +592,27 @@
 		}]
 	}
 ]
+},
+  {
+		"chainId": 3,
+		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+		"saleId": "0x3a4af0eccbd1a7071f36a90e485d9797310c18c10427fd6cccfdcb629e9f6dd9",
+		"saleName": "Giang Hứa (HVG)",
+		"logo": "https://github.com/Huagiang/tokensoft/new/main",
+		"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "Giang Hứa (HVG) Public Sale",
+		"access": {
+			"limitToRegions": ["US", "GB", "CA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+		},
+		"socials": {
+			"twitter": "https://twitter.com/Giang45067283",
+			"discord": "https://discord.gg/tokensoft",
+			"telegram": "https://t.me/huagiang93"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
