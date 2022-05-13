@@ -37,8 +37,8 @@
       },
       "documents": [
         {
-          "name": "Test Plan",
-          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-test-plan.pdf"
+          "name": "Example Document",
+          "uri": "https://example.com/example.pdf"
         }
       ]
   },
