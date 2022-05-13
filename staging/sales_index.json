@@ -567,5 +567,29 @@
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
-	}
+	},
+        {
+		"chainId": 3,
+		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+		"saleId": "0x857c232544b6fb35de8bccda2c67f96df36d5fc06abdba0050464089d34baaa3",
+		"saleName": "cc (cvc)",
+		"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+		"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "Test"
+		"access": {
+			"limitToRegions": ["US", "GB", "CA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+		},
+		"socials": {
+			"twitter": "https://twitter.com/Gue_Crypto",
+			"discord": "https://discord.gg/tokensoft",
+			"telegram": "https://t.me/Sokzyy"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	 },
 ]
