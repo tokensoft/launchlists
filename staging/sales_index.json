@@ -587,5 +587,29 @@
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
+	},
+	{
+		"chainId": 1,
+		"saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+		"saleId": "0x63d01a17b0c00d46cfe68ae8bcf2cceda93bfac291bc964ab76ad57cdee1c9f3",
+		"saleName": "sleecp2earn",
+		"logo": "https://pbs.twimg.com/profile_images/1482907816524660738/OFoywIg2_400x400.jpg",
+		"favicon": "https://pbs.twimg.com/profile_images/1482907816524660738/OFoywIg2_400x400.jpg",
+		"projectWebsite": "https://sleepfuture.com/",
+		"saleDescription": "sleep2earn community token, you sleep you earn easy money !",
+		"access": {
+		  "limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CN","CA","SS","UA"]      },
+		"socials": {
+		  "twitter": "https://twitter.com/bitdealer91",
+		  "discord": "https://discord.gg/EW7uVPgGEu",
+		  "telegram": "https://t.me/cryptorussianbears"
+		},
+		"documents": [
+		  {
+			"name": "Purchase Agreement",
+			"uri": "https://randstorageprod.blob.core.windows.net/sale/SAFT%20Rand%20Presale%202%20Angels%20(TokenSoft).docx-2.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		  }
+		]
 	}
 ]
