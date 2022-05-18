@@ -385,6 +385,44 @@
 		}]
 	},
 	{
+		"hidden": false,
+		"chainId": 4,
+		"saleManagerAddress": "0x6a848ab81b02d3237205fba95ee8d5e9bc789d66",
+		"saleId": "0x7f5e9bec7f2a94a81a315784768f7987ecd86a23737b5c80c95f06e220464e43",
+		"saleName": "Coffee Club",
+		"purchaseDocumentsGenerated": false,
+		"logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+		"favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
+		"projectWebsite": "https://example.com",
+		"saleDescription": "Example description",
+		"access": {
+
+		},
+		"socials": {
+			"twitter": "https://twitter.com/tokensoftinc",
+			"discord": "https://www.discord.gg/",
+			"telegram": "https://t.me/hi"
+		},
+		"documents": [{
+				"name": "SAFT",
+				"uri": "https://example.com/saft.pdf",
+				"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+			},
+			{
+				"name": "Disclosures",
+				"uri": "https://example.com/disclosures.pdf"
+			},
+			{
+				"name": "Terms",
+				"uri": "https://example.com/terms.pdf"
+			},
+			{
+				"name": "Privacy Policy",
+				"uri": "https://example.com/privacy.pdf"
+			}
+		]
+	},
+	{
       "hidden": false,
 		"chainId": 4,
 		"saleManagerAddress": "0x6a848ab81b02d3237205fba95ee8d5e9bc789d66",
