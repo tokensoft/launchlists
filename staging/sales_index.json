@@ -1,5 +1,29 @@
 [
 {
+	"chainId": 43113,
+	"saleManagerAddress": "0xfB9b74bfec44155752b867B43B649E2eB36e0b8A",
+	"saleId": "0x40ec790102f5ec91cae4fe3f9ea47fabb71134d08ce21527ca164101a57e3af9",
+	"saleName": "The Softernet: Round 3",
+	"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/round_3_token_logo.png",
+	"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/round_3_token_logo.png",
+	"projectWebsite": "https://tokensoft.io",
+	"saleDescription": "Softernet Round 3 Sale",
+	"access": {
+		"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+	},
+	"socials": {
+		"twitter": "https://twitter.com/TokensoftInc",
+		"discord": "https://discord.gg/tokensoft",
+		"telegram": "https://t.me/tokensoft"
+	},
+	"documents": [
+		{
+			"name": "Reporting Instructions",
+			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-r3-instructions.pdf"
+		}
+	]
+},
+{
       "hidden": true,
       "chainId": 43114,
       "saleManagerAddress": "0xa82d7ed01c31dd2a46681d18e3e213c9e9231605",
