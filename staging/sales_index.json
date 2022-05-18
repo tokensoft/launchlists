@@ -423,7 +423,7 @@
 		]
 	},
 	{
-      "hidden": false,
+		"hidden": true,
 		"chainId": 4,
 		"saleManagerAddress": "0x6a848ab81b02d3237205fba95ee8d5e9bc789d66",
 		"saleId": "0x5dc361ff856d1fae16a2f88dbd431cf01f60804cdc9c5d94c6ab483b4a961ce8",
