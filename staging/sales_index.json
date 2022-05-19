@@ -1,7 +1,7 @@
 [
 {
 	"chainId": 43113,
-	"saleManagerAddress": "0xfB9b74bfec44155752b867B43B649E2eB36e0b8A",
+	"saleManagerAddress": "0xfb9b74bfec44155752b867b43b649e2eb36e0b8a",
 	"saleId": "0x40ec790102f5ec91cae4fe3f9ea47fabb71134d08ce21527ca164101a57e3af9",
 	"saleName": "The Softernet: Round 3",
 	"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/round_3_token_logo.png",
@@ -410,10 +410,10 @@
 	},
 	{
 		"hidden": false,
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0xc20197d454763bbf6b1259caaea172fce03b7b0d349c6050e33ad3f621eb38e2",
-		"saleName": "Hat Club",
+		"chainId": 4,
+		"saleManagerAddress": "0x6a848ab81b02d3237205fba95ee8d5e9bc789d66",
+		"saleId": "0x03bc46666f691d464ffd08febabe080e07b5703f18f61cb194168e5bf3dbfdb3",
+		"saleName": "Clubbing",
 		"purchaseDocumentsGenerated": false,
 		"logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
 		"favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
