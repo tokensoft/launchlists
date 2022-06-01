@@ -1,6 +1,6 @@
 [
 {
-      "hidden": true,	 
+      "hidden": false,	 
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0x60fab55c2cc22ac45621188557e823cd43d962b059ee472f0b151d7a18b9584b",
@@ -25,7 +25,7 @@
       ]
 },
 {
-	"hidden": true,
+	"hidden": false,
 	"chainId": 43113,
 	"saleManagerAddress": "0xfb9b74bfec44155752b867b43b649e2eb36e0b8a",
 	"saleId": "0x5bdc9589d4be1ed5ece906d2b8d44241c151b5b871cc73df6cdd67e232565b08",
