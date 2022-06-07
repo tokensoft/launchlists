@@ -1,8 +1,8 @@
 [
   {
         "hidden": false,	 
-        "chainId": 137,
-        "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+        "chainId": 43114,
+        "saleManagerAddress": "0xa82d7ed01c31dd2a46681d18e3e213c9e9231605",
         "saleId": "0x6998d84174cec37a34b52bd856994bce9f236d9bc5cb9af9d805bcc7092f8f46",
         "saleName": "Moona Nova",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
