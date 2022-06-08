@@ -1,6 +1,6 @@
 [
   {
-        "hidden": false,	 
+        "hidden": true,	 
         "chainId": 43114,
         "saleManagerAddress": "0xa82d7ed01c31dd2a46681d18e3e213c9e9231605",
         "saleId": "0x6998d84174cec37a34b52bd856994bce9f236d9bc5cb9af9d805bcc7092f8f46",
