@@ -509,10 +509,10 @@
 		}]
 	},
 	{
-		"hidden": true,
-		"chainId": 4,
-		"saleManagerAddress": "0x6a848ab81b02d3237205fba95ee8d5e9bc789d66",
-		"saleId": "0x5dc361ff856d1fae16a2f88dbd431cf01f60804cdc9c5d94c6ab483b4a961ce8",
+		"hidden": false,
+		"chainId": 3,
+		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+		"saleId": "0x798a36c62838087df63627d2a2e4b0121837a9986e5ee3adb64f92a573a0713b",
 		"saleName": "ABL Test Sale",
 		"purchaseDocumentsGenerated": false,
 		"logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
