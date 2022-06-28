@@ -39,8 +39,7 @@
 	"merkleProofs": "https://gateway.pinata.cloud/ipfs/QmPP3e6Z7RCEkgeBef7JP8EbFFPhzT8J62MhzfrdE29cDa"      
       },
       "socials": {
-	"twitter": "https://twitter.com/0xHashstack",
-	"discord": "http://hashstack.community"
+				"twitter": "https://twitter.com/0xHashstack"
       },
       "documents": [
         {
@@ -735,6 +734,22 @@
 			"name": "Purchase Agreement",
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+		"chainId": 3,
+		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
+		"saleId": "0x7c6a5ed4ae4240c72935b6160f0075db980533b3c2db9d4dac9fa8a784423a31",
+		"saleName": "ToTheMoonTokenSoft (TTMTS)",
+		"logo": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"favicon": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "hydro water",
+		"access": {},
+		"socials": {},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf"
 		}]
 	}
 ]

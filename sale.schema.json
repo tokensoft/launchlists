@@ -5,7 +5,7 @@
     "properties": {
       "chainId": {
         "type": "number",
-        "enum": [1, 3, 4, 43113, 43114, 31337]
+        "enum": [1, 3, 4, 43113, 43114, 31337, 137]
       },
       "saleId": {
         "type": "string",
@@ -64,8 +64,7 @@
               "type": "string"
             },
             "uri": {
-              "type": "string",
-              "pattern": ".pdf$"
+              "type": "string"
             },
             "appendSignaturePageUri": {
               "type": "string"
