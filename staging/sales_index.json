@@ -1,6 +1,7 @@
 [	
 {
       "hidden": false,	 
+			"symbol": "SKC",
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0x72c136c4f38e1928696b77825ea3f83ba6b9fc2519891d55f8f36b5f8268a246",
@@ -25,7 +26,8 @@
       ]
 },
 {
-      "hidden": false,	 
+      "hidden": false,
+			"symbol": "HASH",
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xd81062285a29d88d788b2f52a0bff5b13ac2c68903513d16c4c3b538ed54f340",
@@ -51,6 +53,7 @@
 	{
       "hidden": false,	 
       "chainId": 137,
+			"symbol": "MNVA",
       "saleManagerAddress": "0xe6ff4586e8c28d0b47426d980468622f1001d234",
       "saleId": "0xfd6000277ede7f58662f1c37dd3dfa9d9ea25a3b33c4008bc40a4c10b4f2571c",
       "saleName": "Moona Nova",
@@ -535,6 +538,7 @@
 	{
 		"hidden": false,
 		"chainId": 3,
+		"symbol": "ADAM",
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x798a36c62838087df63627d2a2e4b0121837a9986e5ee3adb64f92a573a0713b",
 		"saleName": "ABL Test Sale",
@@ -737,7 +741,9 @@
 		}]
 	},
 	{
+		"hidden": false,
 		"chainId": 3,
+		"symbol": "HW",
 		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
 		"saleId": "0x7c6a5ed4ae4240c72935b6160f0075db980533b3c2db9d4dac9fa8a784423a31",
 		"saleName": "Hydro Water (HW)",

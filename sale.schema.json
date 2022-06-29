@@ -21,6 +21,9 @@
       "hidden": {
         "type": "boolean"
       },
+      "symbol": {
+        "type": "string"
+      },
       "purchaseDocumentsGenerated": {
         "type": "boolean"
       },
