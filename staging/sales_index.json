@@ -1,4 +1,28 @@
-[	
+[
+{
+		"chainId": 3,
+		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
+		"saleId": "0x95c87e904e460d8ad88fe3ced9e1c84d4618f3ba4e7a4f7391cec3c932342fa6",
+		"saleName": "Quetzalcoatl 4: Bird is the Word",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Quetzalcoatl Sale 4",
+		"symbol": "QTZ",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+	        "access": {
+		    "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA", "US"]
+	        },
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
 {
       "hidden": false,	 
 			"symbol": "SKC",
