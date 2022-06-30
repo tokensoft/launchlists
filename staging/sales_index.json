@@ -776,7 +776,8 @@
 		"projectWebsite": "https://tokensoft.io",
 		"saleDescription": "hydro water pre sale",
 		"access": {
-			"limitToRegions": ["US"]
+			"limitToRegions": ["US"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmQJz6d3DvMSwycsDith1hzWUH3RFgKEFgBtTJCvCVbBeP"
 		},
 		"socials": {},
 		"documents": [{
