@@ -15,7 +15,8 @@
 			"telegram": "https://t.me/qtz"
 		},
 	        "access": {
-		    "limitToRegions": ["US"]
+		    "limitToRegions": ["US"],
+		    "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXS35hzFuyJZR5GQpefwZHr4k3qLGjVWbTqKEHxCdktKx"
 	        },
 		"documents": [{
 			"name": "Purchase Agreement",
