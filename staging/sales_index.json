@@ -15,7 +15,7 @@
 			"telegram": "https://t.me/qtz"
 		},
 	        "access": {
-		    "limitToRegions": ["VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA", "US"]
+		    "limitToRegions": ["US"]
 	        },
 		"documents": [{
 			"name": "Purchase Agreement",
