@@ -2,7 +2,7 @@
 	{
 		"chainId": 3,
 		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
-		"saleId": "0xfbb9eb86fb407a5c629dcf70e5f0c6c7db161134",
+		"saleId": "0xa9df83fee15eddad394a266f87c87b9e67c6091b1cedbd9d552503137f1f23d6",
 		"saleName": "Quetzalcoatl 6: Montezuma's Revenge",
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
 		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
@@ -14,9 +14,9 @@
 			"discord": "https://discord.gg/qtz",
 			"telegram": "https://t.me/qtz"
 		},
-	        "access": {
-		    "limitToRegions": ["US"],
-	        },
+		"access": {
+			"limitToRegions": ["US"]
+		},
 		"documents": [{
 			"name": "Purchase Agreement",
 			"uri": "https://example.com/qtz.pdf",
