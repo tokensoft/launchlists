@@ -39,6 +39,9 @@
       "saleDescription": {
         "type": "string"
       },
+      "gaTrackingId": {
+        "type": "string"
+      },  
       "socials": {
         "type": "object",
         "properties": {
