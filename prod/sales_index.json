@@ -1,7 +1,7 @@
 [
   {
     "chainId": 1,
-    "saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
+    "saleManagerAddress": "0xff7a903e86b10aaeb8da65cef0ebc07ea3f9354b",
     "saleId": "0x1901a0a83d6605d80d417d125828c1a08d3ef3460e50821ec20b3e3b13cddeb2",
     "saleName": "Phat Loot Community Seed Round",
     "symbol": "PLT",
