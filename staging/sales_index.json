@@ -849,9 +849,7 @@
 		"favicon": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
 		"projectWebsite": "https://tokensoft.io",
 		"saleDescription": "hydro token",
-		"access": {
-			"limitToRegions": ["US"],
-		},
+		"access": {},
 		"socials": {},
 		"documents": [{
 			"name": "Purchase Agreement",
