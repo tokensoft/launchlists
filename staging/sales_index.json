@@ -851,6 +851,7 @@
 		"saleDescription": "hydro token",
 		"access": {},
 		"socials": {},
+		"gnosisSafeMasterAddress": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
 		"documents": [{
 			"name": "Purchase Agreement",
 			"uri": "https://example.com/qtz.pdf"

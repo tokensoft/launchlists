@@ -60,6 +60,9 @@
         },
         "additionalProperties": false
       },
+      "gnosisSafeMasterAddress": {
+        "type": "string"
+      },
       "documents": {
         "type": "array",
         "minItems": 1,
