@@ -17,7 +17,7 @@
 		},
 		"access": {
 			"limitToRegions": ["US"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXcQrokvYDC4DMNTxUdc64yS6wjeJdvKEsSwYYkaudkW2"
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmZuWhRVDmCxQREUvksaEwFpjVo9ypp6kWZ6aMBMupRCNy"
 		},
 		"documents": [{
 			"name": "Purchase Agreement",
