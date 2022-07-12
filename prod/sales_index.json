@@ -1,4 +1,30 @@
 [
+  	{
+		"chainId": 1,
+		"saleManagerAddress": "0xff7a903e86b10aaeb8da65cef0ebc07ea3f9354b",
+		"saleId": "0xdb88f979d151778556f1a0d3c85ee1f80fc16b274d111943d123023138045bdf",
+		"saleName": "Quetzalcoatl 7: Prod Test",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Quetzalcoatl Sale 7 Description",
+		"symbol": "QTZ",
+		"gaTrackingId": "UA-106616315-4",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+		"access": {
+			"limitToRegions": ["US"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXcQrokvYDC4DMNTxUdc64yS6wjeJdvKEsSwYYkaudkW2"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
   {
     "chainId": 1,
     "saleManagerAddress": "0xff7a903e86b10aaeb8da65cef0ebc07ea3f9354b",
