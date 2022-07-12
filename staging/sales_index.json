@@ -851,7 +851,6 @@
 		"saleDescription": "hydro token",
 		"access": {
 			"limitToRegions": ["US"],
-			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmQJz6d3DvMSwycsDith1hzWUH3RFgKEFgBtTJCvCVbBeP"
 		},
 		"socials": {},
 		"documents": [{
