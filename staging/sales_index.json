@@ -837,5 +837,26 @@
 			"name": "Purchase Agreement",
 			"uri": "https://example.com/qtz.pdf"
 		}]
+	},
+	{
+		"hidden": false,
+		"chainId": 5,
+		"symbol": "HT",
+		"saleManagerAddress": "0xeedb0e8e589f9adf6768fc006baa1c6462f5e563",
+		"saleId": "0x8cbd028ed628967c27c8399f02265c2807db4c0fa7604ea0b355424a8dd3273b",
+		"saleName": "Hydro Token",
+		"logo": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"favicon": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "hydro token",
+		"access": {
+			"limitToRegions": ["US"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmQJz6d3DvMSwycsDith1hzWUH3RFgKEFgBtTJCvCVbBeP"
+		},
+		"socials": {},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf"
+		}]
 	}
 ]
