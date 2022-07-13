@@ -20,7 +20,7 @@
     "documents": [
       {
         "name": "Purchase Agreement",
-        "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Approved.SAFT.PhatLootDeFi.pdf",
+        "uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Approved.SAFT.PhatLootDeFi.V2.docx.pdf",
         "appendSignaturePageUri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Purchase%20Agreement%20Signature%20Annex.pdf"
       }
     ]
