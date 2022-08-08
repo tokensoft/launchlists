@@ -1,5 +1,404 @@
 [
+	
+	{
+		"chainId": 4,
+		"saleManagerAddress": "0x534a1e82171e2b944a6066f4657202535d1e7ef8",
+		"saleId": "0x5e00e177f525e1232215e3421f5e5675d8c6a4919dc353ac8e24838db21681f9",
+		"saleName": "Bloop 2: The Road to Quetzalcoatl",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Bloop 2 - Dare to journey. Dare to discover. ",
+		"symbol": "BLP",
+		"gaTrackingId": "UA-106616315-4",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+		"access": {
+			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+		},
+		"documents": [{
+			"name": "Pretend SAFT",
+			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernetfirst3.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+		"chainId": 5,
+		"saleManagerAddress": "0xeade38418b409991b0636d2591105d0c6b03d69c",
+		"saleId": "0x2ec97d2db38a7dbc70ff39e450b08600b1512ae8b2f7dc3371802cbf44252cb6",
+		"saleName": "Bloop 1: The Road to Quetzalcoatl",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Bloop 1 - Dare to journey. Dare to discover. ",
+		"symbol": "BLP",
+		"gaTrackingId": "UA-106616315-4",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+		"access": {
+			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+		},
+		"documents": [{
+			"name": "Pretend SAFT",
+			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernetfirst3.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+		"chainId": 5,
+		"saleManagerAddress": "0xeedb0e8e589f9adf6768fc006baa1c6462f5e563",
+		"saleId": "0x79dec3ddbbb71adcd19bd2cbd5099e3e4bb32e15edcba2755c0d7e70ea9e18ec",
+		"saleName": "Quetzalcoatl 8",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Quetzalcoatl Sale 8 description",
+		"symbol": "QTZ",
+		"gaTrackingId": "UA-106616315-4",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+		"access": {
+			"limitToRegions": ["US"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXS35hzFuyJZR5GQpefwZHr4k3qLGjVWbTqKEHxCdktKx"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+		"chainId": 3,
+		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
+		"saleId": "0xe978a9e95dd1f9eecbb23a56a1434fc4c2b6d3dc3b6647e39ffd23ddf878aeef",
+		"saleName": "Phat Loot Seed Round 1",
+		"logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Phat%20Loot%20favicon.png",
+		"favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Phat%20Loot%20favicon.png",
+		"projectWebsite": "https://www.phatlootdefi.com/",
+		"saleDescription": "Phat Loot Token is the first truly universal token fully integrated across all facets of the Phat Loot ecosystem. The Phat Loot Token will power everything Phat Loot including play-to-earn rewards, game mechanics, marketplace utilization, In-game utility, tournament entry fees, game launchpads, skins, in-game items, SaaS & on-demand solutions, marketing activities, and much more.",
+		"symbol": "PLT",
+		"socials": {
+			"twitter": "https://twitter.com/guppygangnft",
+			"discord": "https://discord.com/invite/guppygang"
+		},
+		"access": {
+			"limitToRegions": ["AL","DZ","AD","AO","AI","AG","AR","AM","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BR","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CO","KM","CD","CG","CR","CI","HR","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FO","FJ","FI","FR","PF","GA","GM","GE","DE","GH","GI","GR","GD","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MV","ML","MT","MH","MR","MU","MX","MY","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NZ","NI","NE","NG","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PL","PT","PR","QA","RO","RU","RW","KN","LC","MF","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","ES","LK","SR","SZ","SE","CH","TW","TJ","TZ","TH","TL","TG","TO","TT","TN","TR","TM","TC","TV","UG","AE","GB","UY","UZ","VU","VE","VN","EH","YE","ZM","ZW","SD","CA","SS","UA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmcdbQNUe4UukA4yG4KXXt5RbvUR6RDVXFH29KJWj9S46R"
+
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Approved.SAFT.PhatLootDeFi.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+		"chainId": 3,
+		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
+		"saleId": "0xa9df83fee15eddad394a266f87c87b9e67c6091b1cedbd9d552503137f1f23d6",
+		"saleName": "Quetzalcoatl 6: Montezuma's Revenge",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Quetzalcoatl Sale 6 description",
+		"symbol": "QTZ",
+		"gaTrackingId": "UA-106616315-4",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+		"access": {
+			"limitToRegions": ["US"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXS35hzFuyJZR5GQpefwZHr4k3qLGjVWbTqKEHxCdktKx"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+		"chainId": 3,
+		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
+		"saleId": "0x41290b45da0c20410e67973ec513048dc94e842f3d0ad5f0c2a127589e11dd62",
+		"saleName": "Quetzalcoatl 5: Attack Of The Birds",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Quetzalcoatl Sale 5",
+		"symbol": "QTZ",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+	        "access": {
+		    "limitToRegions": ["US"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXS35hzFuyJZR5GQpefwZHr4k3qLGjVWbTqKEHxCdktKx"
+	        },
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+{
+		"chainId": 3,
+		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
+		"saleId": "0xad32d9d0551a145cbdf72ca10e3393a16443fe3d9323078e6b41ebe735c6e6d7",
+		"saleName": "Quetzalcoatl 4: Bird is the Word",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+		"projectWebsite": "https://en.wikipedia.org/wiki/Quetzalcoatl",
+		"saleDescription": "Quetzalcoatl Sale 4",
+		"symbol": "QTZ",
+		"socials": {
+			"twitter": "https://twitter.com/qtz",
+			"discord": "https://discord.gg/qtz",
+			"telegram": "https://t.me/qtz"
+		},
+	        "access": {
+		    "limitToRegions": ["US"],
+		    "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXS35hzFuyJZR5GQpefwZHr4k3qLGjVWbTqKEHxCdktKx"
+	        },
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+{
+      "hidden": false,	 
+			"symbol": "SKC",
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x72c136c4f38e1928696b77825ea3f83ba6b9fc2519891d55f8f36b5f8268a246",
+      "saleName": "Sarah's Test",
+      "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/tokensoft-logo-mark-full-color-rgb.svg",
+      "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/tokensoft-logo-mark-full-color-rgb.svg",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "Sarah's Test",
+      "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+	      
+      },
+      "socials": {
+	"twitter": "https://twitter.com/tokensoftinc",
+	"discord": "https://discord.com/invite/PNzWBC7CmP"
+      },
+      "documents": [
+        {
+          "name": "Pretend SAFT",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernetfirst3.pdf"
+        }
+      ]
+},
+{
+      "hidden": false,
+			"symbol": "HASH",
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xd81062285a29d88d788b2f52a0bff5b13ac2c68903513d16c4c3b538ed54f340",
+      "saleName": "HASHSTACK PRESALE",
+      "logo": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Hashstack%20logo_Hashstack%20icon%20black.png",
+      "favicon": "https://tokensoft-public-assets.s3.amazonaws.com/v2/production/Hashstack%20logo_Hashstack%20icon%20black.png",
+      "projectWebsite": "https://HASHSTACK.FINANCE",
+      "saleDescription": "HASHSTACK PRESALE",
+      "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+	"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmPP3e6Z7RCEkgeBef7JP8EbFFPhzT8J62MhzfrdE29cDa"      
+      },
+      "socials": {
+				"twitter": "https://twitter.com/0xHashstack"
+      },
+      "documents": [
+        {
+          "name": "Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernetfirst3.pdf"
+        }
+      ]
+},
+	{
+      "hidden": false,	 
+      "chainId": 137,
+			"symbol": "MNVA",
+      "saleManagerAddress": "0xe6ff4586e8c28d0b47426d980468622f1001d234",
+      "saleId": "0xfd6000277ede7f58662f1c37dd3dfa9d9ea25a3b33c4008bc40a4c10b4f2571c",
+      "saleName": "Moona Nova",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/2/23/Quetzalcoatl_V.svg",
+      "projectWebsite": "https://example.com",
+      "saleDescription": "Moona Nova",
+      "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+      },
+      "socials": {
+	"twitter": "https://twitter.com/moonanova",
+	"discord": "https://discord.gg/moonanova",
+	"telegram": "https://t.me/moonanova"
+      },
+      "documents": [
+        {
+          "name": "Example Document",
+          "uri": "https://example.com/example"
+        }
+      ]
+},
+{
+      "hidden": true,	 
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0x60fab55c2cc22ac45621188557e823cd43d962b059ee472f0b151d7a18b9584b",
+      "saleName": "Aaron's Test Token 3",
+      "logo": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+      "favicon": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "Test Token Sale",
+      "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+      },
+      "socials": {
+	"twitter": "https://twitter.com/TokensoftInc",
+	"discord": "https://discord.gg/tokensoft",
+	"telegram": "https://t.me/tokensoft"
+      },
+      "documents": [
+        {
+          "name": "Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernetfirst3.pdf"
+        }
+      ]
+},
+{
+	"hidden": true,
+	"chainId": 43113,
+	"saleManagerAddress": "0xfb9b74bfec44155752b867b43b649e2eb36e0b8a",
+	"saleId": "0x5bdc9589d4be1ed5ece906d2b8d44241c151b5b871cc73df6cdd67e232565b08",
+	"saleName": "Aaron's Test Token 4",
+        "logo": "https://wampi.ru/image/RuaKC17",
+        "favicon": "https://wampi.ru/image/RuaKUvg",
+	"projectWebsite": "https://tokensoft.io",
+	"saleDescription": "Test Token Sale",
+	"access": {
+		"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+	},
+	"socials": {
+		"twitter": "https://twitter.com/TokensoftInc",
+		"discord": "https://discord.gg/tokensoft",
+		"telegram": "https://t.me/tokensoft"
+	},
+	"documents": [
+		{
+			"name": "Reporting Instructions",
+			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-r3-instructions.pdf"
+		}
+	]
+},
+{
+	"chainId": 43113,
+	"saleManagerAddress": "0xfb9b74bfec44155752b867b43b649e2eb36e0b8a",
+	"saleId": "0x40ec790102f5ec91cae4fe3f9ea47fabb71134d08ce21527ca164101a57e3af9",
+	"saleName": "The Softernet: Round 3",
+	"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/round_3_token_logo.png",
+	"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/round_3_token_logo.png",
+	"projectWebsite": "https://tokensoft.io",
+	"saleDescription": "Softernet Round 3 Sale",
+	"access": {
+		"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+	},
+	"socials": {
+		"twitter": "https://twitter.com/TokensoftInc",
+		"discord": "https://discord.gg/tokensoft",
+		"telegram": "https://t.me/tokensoft"
+	},
+	"documents": [
+		{
+			"name": "Reporting Instructions",
+			"uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-r3-instructions.pdf"
+		}
+	]
+},
+{
+      "hidden": true,
+      "chainId": 43114,
+      "saleManagerAddress": "0xa82d7ed01c31dd2a46681d18e3e213c9e9231605",
+      "saleId": "0x8ef5957dcf913a4759cd61a818fe391543292a3e98d203ca7f765da0ade14ea7",
+      "saleName": "Terra Commemorative Event",
+      "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/terra-luna-luna-logo.svg",
+      "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/terra-luna-luna-logo.svg",
+      "projectWebsite": "https://terra.money",
+      "saleDescription": "Stop. stop. It's dead already.",
+      "access": {},
+      "socials": {},
+      "documents": [
+        {
+          "name": "Terra Whitepaper",
+          "uri": "https://assets.website-files.com/611153e7af981472d8da199c/618b02d13e938ae1f8ad1e45_Terra_White_paper.pdf"
+        }
+      ]
+  },
   {
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xd9fdc1eefe6c1e0c0f873b55b7b1a69a0e1289eb812df897b59ff26791482805",
+      "saleName": "Softernet Round 2",
+      "logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-round2.png",
+      "favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet-round2.png",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "Softernet Round 2 Sale",
+      "access": {
+        "limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+      },
+      "socials": {
+	"twitter": "https://twitter.com/TokensoftInc",
+	"discord": "https://discord.gg/tokensoft",
+	"telegram": "https://t.me/tokensoft"
+      },
+      "documents": [
+        {
+          "name": "Test Plan",
+          "uri": "https://tokensoft-softernet-public.s3.amazonaws.com/softernetfirst3.pdf"
+        }
+      ]
+  },
+ {
+      "hidden": true,
+      "chainId": 3,
+      "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+      "saleId": "0xe41fddcaf7d5a293d2e07e43f99c81b5015abb3461d4b15b5cbb31ba8b66c5ca",
+      "saleName": "PiterFM",
+      "logo": "https://wampi.ru/image/RuaKC17",
+      "favicon": "https://wampi.ru/image/RuaKUvg",
+      "projectWebsite": "https://tokensoft.io",
+      "saleDescription": "PiterFM",
+      "access": {
+        "limitToRegions": ["US", "GB", "CA"]
+      },
+      "socials": {
+        "twitter": "https://twitter.com/ns_genn",
+        "discord": "https://discord.gg/PiterFM#5693",
+        "telegram": "https://t.me/ns_genn"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
+  {
+      "hidden": true,
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xf380fc4d4cec3fc34ec1292cd8817e06708652f292cc4dc8131c08b73b3d8d80",
@@ -10,7 +409,7 @@
       "saleDescription": "Polka0101",
       "access": {
         "limitToRegions": ["US", "GB", "CA"],
-	"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+	      "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
       },
       "socials": {
         "twitter": "https://twitter.com/48Matveeva",
@@ -26,6 +425,7 @@
       ]
   },
   {
+      "hidden": true,
       "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xc92bf83c10267f6accacdc0258ec9bfaea5295412fb46782be734bd0dc1df015",
@@ -49,6 +449,7 @@
       }]
   },
   {
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x7f1d7720c6fba223158981b82f0d9914547e2c1323a1834359015bdf2b5f7143",
@@ -73,6 +474,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0x000047203100a45635029ec21bbbec5ec53cb6f6",
 		"saleId": "0x81c02c427b98a54aa297b164f192706eeeae051fbdeb8afcd083768701fbd96d",
@@ -82,7 +484,8 @@
 		"projectWebsite": "https://tokensoft.io",
 		"saleDescription": "PenJ Softernet Sale is Good",
 		"access": {
-			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"]
+			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmSb7SxyAF6SzdSVo9GGiSwaCufcw1tnnJhFjhk9UbijKD"
 		},
 		"socials": {
 			"twitter": "https://twitter.com/https://twitter.com/alex_savchik",
@@ -95,6 +498,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x0cfdcf06c53cee2ab8752998f4d6723c81b8114ecad5955ddefaa13c2735e12c",
@@ -103,7 +507,10 @@
 		"favicon": "https://pbs.twimg.com/profile_images/1514774747921281027/oAAgTkv0_400x400.jpg",
 		"projectWebsite": "https://twitter.com/ReginaArt_",
 		"saleDescription": "ReginaArt",
-		"access": {},
+		"access": {
+			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmSb7SxyAF6SzdSVo9GGiSwaCufcw1tnnJhFjhk9UbijKD"
+		},
 		"socials": {
 			"twitter": "https://twitter.com/dimapolipol",
 			"discord": "https://discord.gg/tokensoft",
@@ -115,6 +522,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0xe02efc9e817e2124f88c6cd5a4e5af615460119b55a7b3ef6a1bb4ce1ea11d63",
@@ -135,6 +543,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0xb1d6866b182238fdf2a4c65f9c18b16c6f786cf7505061285d54f3f8f950baae",
@@ -155,6 +564,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
 		"saleId": "0x71f26b1618db09d290f810c6960d7dfd989af24782e948721664ada36bcd3196",
@@ -189,6 +599,7 @@
 		]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x6ae894051f6af4330b64c7898cc06e9c2f52d103ddcc37ec991fa6df00790aac",
@@ -210,6 +621,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x2cf63c9a404bfa49907a249ba54d9975a1d0c138ca1da2f32566daefdecf6f49",
@@ -231,6 +643,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x314fa309e345668dad4c0e18b20a31adf3faa32c9f23436add5c14ed430bf1a4",
@@ -255,6 +668,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
 		"saleId": "0xb2241f9abcdf8e34417ec6450a6915834125391126ffe09cf2f21b1dc71d08b1",
@@ -279,11 +693,11 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0x6f6125742821643d4bccd81419d648d96d45e06f",
 		"saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
 		"saleName": "Fayre",
-		"hidden": false,
 		"purchaseDocumentsGenerated": false,
 		"logo": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
 		"favicon": "https://drive.google.com/uc?id=1vAl_8DOq0G2c5mJzs-pfUsm4KDo9KYAF",
@@ -300,11 +714,12 @@
 		}]
 	},
 	{
-		"chainId": 3,
-		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
-		"saleId": "0x3fb5c4fa3362d2056d9558f597602912b5c1bf3a91887532ff36e21a59cd71a3",
-		"saleName": "ABL Test Sale",
 		"hidden": false,
+		"chainId": 3,
+		"symbol": "ADAM",
+		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+		"saleId": "0x798a36c62838087df63627d2a2e4b0121837a9986e5ee3adb64f92a573a0713b",
+		"saleName": "ABL Test Sale",
 		"purchaseDocumentsGenerated": false,
 		"logo": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
 		"favicon": "https://www.pngfind.com/pngs/m/169-1699678_grateful-dead-skull-logo-steal-your-face-png.png",
@@ -338,11 +753,11 @@
 		]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x583e17384ca49a7208a07bd31e2ddc8c01d5ad037ec4c32181f16db2c5496fb5",
 		"saleName": "Randall's Public Sale",
-		"hidden": false,
 		"purchaseDocumentsGenerated": false,
 		"logo": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
 		"favicon": "https://www.onlygfx.com/wp-content/uploads/2018/09/4-clipart-sun-1.png",
@@ -359,6 +774,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0xa381a6e0030b213ed7c6d0b374471390861d7807fc73b3f8e7ad567672a99ca8",
@@ -383,6 +799,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x9f1db8c353b68a6484e2d26a9810c298c5a3b64c21e952b747bac9901d0e646e",
@@ -406,6 +823,7 @@
 		}]
 	},
 	{
+      "hidden": true,
 		"chainId": 3,
 		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
 		"saleId": "0x52d12379e10ea4ba64a4643eaad160a5aad1838bad6a10d9bcf9ac23a439ade6",
@@ -424,6 +842,96 @@
 			"name": "Purchase Agreement",
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+      "hidden": true,
+		"chainId": 3,
+		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+		"saleId": "0x95f98e572f06b28e9afd6702e727af7d75c8d4ff4fdfa7d8bc11fc3f923266a5",
+		"saleName": "Softernet (ppSoft)",
+		"logo": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+		"favicon": "https://tokensoft-softernet-public.s3.amazonaws.com/softernet.png",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "Softernet (ppSoft) Public Sale",
+		"access": {
+			"limitToRegions": ["US", "GB", "CA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+		},
+		"socials": {
+			"twitter": "https://twitter.com/Sokzyy",
+			"discord": "https://discord.gg/tokensoft",
+			"telegram": "https://t.me/Sokzyy"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+      "hidden": true,
+		"chainId": 3,
+		"saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
+		"saleId": "0x210c67da123eb90f38527d513232b6699ae12de5e5836a60bc92272535a136d4",
+		"saleName": "ToTheMoonTokenSoft (TTMTS)",
+		"logo": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
+		"favicon": "https://cdn.icon-icons.com/icons2/1389/PNG/512/moonfullmoon_96135.png",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "community token",
+		"access": {
+			"limitToRegions": ["AL", "DZ", "AD", "AO", "AI", "AG", "AR", "AM", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BA", "BW", "BR", "BN", "BG", "BF", "BI", "KH", "CM", "CV", "KY", "CF", "TD", "CL", "CO", "KM", "CD", "CG", "CR", "CI", "HR", "CY", "CZ", "DK", "DJ", "DM", "DO", "EC", "EG", "SV", "GQ", "ER", "EE", "ET", "FO", "FJ", "FI", "FR", "PF", "GA", "GM", "GE", "DE", "GH", "GI", "GR", "GD", "GT", "GG", "GN", "GW", "GY", "HT", "VA", "HN", "HK", "HU", "IS", "IN", "ID", "IQ", "IE", "IM", "IL", "IT", "JM", "JP", "JE", "JO", "KZ", "KE", "KI", "KR", "KW", "KG", "LA", "LV", "LB", "LS", "LR", "LY", "LI", "LT", "LU", "MO", "MK", "MG", "MW", "MV", "ML", "MT", "MH", "MR", "MU", "MX", "MY", "FM", "MD", "MC", "MN", "ME", "MS", "MA", "MZ", "MM", "NA", "NR", "NP", "NL", "NZ", "NI", "NE", "NG", "NO", "OM", "PK", "PW", "PS", "PA", "PG", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "RO", "RU", "RW", "KN", "LC", "MF", "VC", "WS", "SM", "ST", "SA", "SN", "RS", "SC", "SL", "SG", "SK", "SI", "SB", "SO", "ZA", "ES", "LK", "SR", "SZ", "SE", "CH", "TW", "TJ", "TZ", "TH", "TL", "TG", "TO", "TT", "TN", "TR", "TM", "TC", "TV", "UG", "AE", "GB", "UY", "UZ", "VU", "VE", "VN", "EH", "YE", "ZM", "ZW", "SD", "CN", "CA", "SS", "UA"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+		},
+		"socials": {
+			"twitter": "https://twitter.com/bitdealer91",
+			"discord": "https://discord.gg/tokensoft",
+			"telegram": "https://t.me/cryptorussianbears"
+		},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
+	},
+	{
+		"hidden": false,
+		"chainId": 3,
+		"symbol": "HW2",
+		"saleManagerAddress": "0x4be55e8a4f557aa1f97d449f4182fdc19503a042",
+		"saleId": "0x35724daa8005e9fc157a21f4c0d454bfa9e7f9f42b4245e197f2ad342dc13d38",
+		"saleName": "Hydro Water Pre (HW2)",
+		"logo": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"favicon": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "hydro water pre sale",
+		"access": {
+			"limitToRegions": ["US"],
+			"merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmQJz6d3DvMSwycsDith1hzWUH3RFgKEFgBtTJCvCVbBeP"
+		},
+		"socials": {},
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf"
+		}]
+	},
+	{
+		"hidden": false,
+		"chainId": 5,
+		"symbol": "HT",
+		"saleManagerAddress": "0xeedb0e8e589f9adf6768fc006baa1c6462f5e563",
+		"saleId": "0x8cbd028ed628967c27c8399f02265c2807db4c0fa7604ea0b355424a8dd3273b",
+		"saleName": "Hydro Token",
+		"logo": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"favicon": "https://media.istockphoto.com/vectors/blue-drop-water-and-circle-logo-template-illustration-design-vector-vector-id1204439297?k=20&m=1204439297&s=612x612&w=0&h=3IJcgNAHZeFR6gzmRGM4VZvwTckltVFcojhT22L6gYY=",
+		"projectWebsite": "https://tokensoft.io",
+		"saleDescription": "hydro token",
+		"access": {},
+		"socials": {},
+		"gnosisSafeMasterAddress": "0x3E5c63644E683549055b9Be8653de26E0B4CD36E",
+		"documents": [{
+			"name": "Purchase Agreement",
+			"uri": "https://example.com/qtz.pdf"
 		}]
 	}
 ]
